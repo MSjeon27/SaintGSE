@@ -1,0 +1,1719 @@
+HPV E4 Contribution to Life Cycle of Virus and Cell
+Thrombophilia Hereditary
+BDKRB1/2 -> Vasodilation
+Cochlear Inflammation (Noise-Induced)
+Hedgehog Family Signaling
+Myostatin-IGF1 Crosstalk in Skeletal Muscles in Muscular Dystrophies
+Apoptosis Block in Melanoma Cell
+Dioxin Induced Chloracne (Hypothesis)
+STAT3 and NFkB Activate Inflammation-Induced Tumorigenesis
+Advanced Glycation End Products Pathway in Diabetic Microangiopathy
+Proteins with Altered Expression in Parkinson's Disease
+Apoptosis Block by BCL2 Family Proteins in Cancer
+CFTR Facilitates Oxidative Stress in Airway Epithelium in CF
+Ca2+ Reabsorption Decline in Intestine
+Estrogen Effects on Pregnancy Gingivitis
+EphrinR -> STAT Signaling
+Microglia Activation in Parkinson's Disease
+WNT Inhibition by DKK1 in Osteoblast in Multiple Myelome
+Proteins with Altered Expression in Melanoma
+Genes with Mutations Associated with Sleep Disorder
+Macrophage Survival through CCR5 and CXCR4 Mediated Signaling
+Hyperseborrhea in Acne Vulgaris
+BDKRB1/2 -> Ion Channels
+mTOR Hyperactivation after Status Epilepticus
+Proteins Involved in Low-Grade Serous Ovarian Carcinoma
+Thyroid Stimulating Hormone (TSH) Resistance in Congenital Hypothyroidism
+Hippo/YAP1 Signaling
+M-cell: Motilin Release
+HPV E5 Regulates EDNRA and EGFR Signaling Pathway in Keratinocytes
+Toll-like Receptors in Sterile Inflammation
+Ras-GAP Regulation Signaling
+G1/S Phase Transition
+TLR3 Role in Retinal Pigment Epithelial Cell
+IL33 Signaling Related Eosinophilia in Asthma
+Steroids Induced Cataract
+IL6R -> CEBP/ELK/SRF Signaling
+Cilia Disorganization
+MTHFR Mutation, Hyperhomocysteinemia and Folate Deficiency
+SOD1 Mutation
+Proteins Involved in Vascular Dementia
+Peutz-Jeghers Syndrome
+Vitamin K Metabolism
+Proteins Involved in T-Cell Acute Lymphoblastic Leukemia
+beta-Cell Function Inhibition by Ciclosporine and Tacrolimus (Rodent Model)
+Estrogen Deficiency in Female Obesity
+TNFRSF6 -> HSF1 Signaling
+Proteins with Altered Expression in Celiac Disease
+RHO Signaling (Light)
+Nitric Oxide Effects on beta-Cell
+Neonatal Diabetes Mellitus
+Proteins Involved in Atopic Dermatitis
+Histone Acetylation
+Renin-Angiotensin-Aldosterone System in Myocardial ischemia
+Histamine Receptor H3 Signaling in Neurons
+Suppression of Caspase Activity in Cancer
+Proteins Involved in Marginal Zone Lymphoma
+DRD2 Expression Targets
+Neutrophil Activation via LTB4/Polyisoprenyl Phosphate Signaling
+T-Cell Positive Selection and Neglect Induced Death
+ProlactinR -> STAT Signaling
+Proteins with Altered Expression in Amyotrophic Lateral Sclerosis
+Phelan-McDermid Syndrome
+CD8+ T-Cell Activation
+FOXO1 and SREBP-1C Role in beta-Cell Suppression (Rodent Model)
+ADORA1/2A -> Exocytosis
+Proteins with Altered Expression in Cancer-Associated Histone Deacetylation
+Alternative Lengthening of Telomeres in Cancer
+Proteins Involved in Obesity
+Autophagic-Lysosomal System Decline Associated with Aging
+Leptin -> NO Production/Vasodilation
+Ras Signaling
+Proteins Involved in Cystic Fibrosis
+FrizzledR -> CTNNB Signaling
+Neuroinflammation in Amyotrophic Lateral Sclerosis
+HMGB1/RAGE Signaling in Middle Ear Cholesteatoma
+EGF/cyclinD1 Signaling in Acquired Middle Ear Cholesteatoma
+Genes with Mutations Associated with Testicular Male Infertility
+Genes with Mutations Associated with Ichthyosis
+Estrogens/ESR1 Genomic Canonical Signaling
+Genes with Mutations Associated with Systemic Scleroderma
+Keratinocyte Activation in Psoriatic Arthritis
+Cryopyrin (NLPR3) Associated Periodic Syndromes
+Proteins Involved in Hypertrophic Cardiomyopathy
+Sister Chromatid Cohesion
+Adipokines Production by Adipocyte
+IL22R -> STAT3 Signaling
+Dexamethasone Induced Neurotoxicity
+Endothelial Cell Dysfunction in Pyelonephritis
+NOTCH Signaling in Hepatocellular Carcinoma
+FrizzledR -> JUN/PAX2 Signaling
+Proteins Involved in HIV Type 1 Infection
+NOTCH -> EP300/ASCL Signaling
+Genes with Mutations Associated with Psoriatic Arthritis
+Vitamin D and Folate in Multiple Sclerosis
+Genes with Mutations Associated with Cystic Fibrosis
+Single-Strand Mismatch
+Periostin (POSTN) Production by Airway Epithelium in Asthma
+Proteins Involved in Cataract
+Proteins with Altered Expression in Breast Cancer
+HPRT1 Deficiency in Lesch-Nyhan Syndrome
+Harlequin Ichthyosis
+G2/M Phase Transition
+AXL Receptor Inhibits Macrophages and Dendritic Cells Function
+Estrogens in Prolactin Production
+Tricarboxylic Acid Cycle Enzymes Involvement in Alzheimer Disease
+Proteins Involved in Pulmonary Emphysema
+Treg-Cell Function in Diabetes Mellitus Type 1
+Berardinelli-Seip Syndrome Progression (Hypothesis)
+G0/G1 Cell Cycle Phase Transition Activation in Cancer
+Mucin Hyperproduction in Goblet and Mucous Cells
+Inflammatory Reaction in Acne Vulgaris
+NURF in Chromatin Remodeling
+Lipids Enhance Apoptotic Cell Engulfment and Reduce Inflammation
+Dentin Formation Disruption
+ER Stress in Huntington Disease
+Proteins with Altered Expression in Asthma
+Synaptic Exocytosis in Dementia
+OPRD/OPRM -> Ion Channels
+P38 MAPK/MAPK14 Signaling
+IGF1R -> STAT Signaling
+Fatty Acids Cause Oxidative Stress and Mitochondria Decline in Aging
+B-Cell Activation in Systemic Lupus Erythematosus
+WNT Signaling in Breast Cancer
+CCKBR -> Neurotransmitter Uptake
+Apoptosis Evasion in Cancer: Overview
+rRNA Transcription and Processing
+Aldosterone Signaling in Arterial Hypertension
+Insulin Synthesis in beta-Cell
+IL5R -> STAT Signaling
+Hypertrophic Cardiomyopathy
+Hypocretin (Orexin) in Arousal Regulation
+Toll-like Receptors Act through MYD88 Signaling
+Proteins Involved in Hypoparathyroidism
+Alveolar Epithelial Cell Autophagy in COPD
+Metabolic Effects of Oncogenes and Tumor Suppressor in Cancer Cells
+AMPK Signaling
+Dendritic Cell Function in Ulcerative Colitis
+CGRP -> Calcium Influx
+Club-Cell Role in Asthma
+Synaptic Potentiation by PKMZ in LTP Maintenance - Active State
+ARRB1/ARRB2 and GPCRs Internalization
+MELAS Syndrome
+TLR -> AP-1 Signaling
+ER Stress in Macular Degeneration
+Proteins Involved in Glioma
+WNT Signaling in Hepatocellular Carcinoma
+Kinetochore Assembly
+IL6/JAK/STAT3 Signaling in Cholesteatoma
+Proteins Involved in Thrombophilia
+VEGFR -> ATF/CREB/ELK-SRF Signaling
+Immunoglobulin Class-Switch Recombination via Alternative End-Joining
+IGF1R -> ELK/SRF/HIF1A/MYC/SREBF Signaling
+GALR1/2/3 -> POMC/NPY Production
+Adherens Junction Assembly (Cadherins)
+TNF Receptor Associated Periodic Syndrome
+CRH -> Synthesis of Corticosteroids
+IGF1 Role in Muscle Hypertrophy
+Proteins with Altered Expression in Ichthyosis
+Proteins Involved in Psoriasis
+Proteins Involved in Mantle Cell Lymphoma
+Dendritic Spine Morphogenesis and Stabilization
+ALK Associated Neuroblastoma
+SCF/FBXO11 Complex
+GNRH Release Impairment in Hypogonadotrophic Hypogonadism
+Neutrophil Degranulation via FPR1/IL8
+Apoptosis Block in Synovial Fibroblast
+Telomere Maintenance
+SIRT6 Signaling in Aging
+Genes with Mutation in Cancer-Associated Dysregulated DNA Repair
+Contraction Due Vasospasm
+Glioblastoma, Classical Subtype
+Proteins Involved in Autistic Disorder
+CR3 Mediated Phagocytosis in Neutrophils and Macrophages
+FibronectinR -> AP-1/ELK/SRF/SREBF Signaling
+Microangiopathy in Diabetic Neuropathy
+Genes with Mutations in Cancer Immune Escape
+Nociception Expression Targets Signaling
+Proteins Involved in Acne Vulgaris
+Advanced Glycation End Products in Diabetes or Age Related Erectile Dysfunction
+PTGFR -> Vasoconstriction
+Apoptosis of Mantle Cell Deregulation
+Treg-Cell Activation in Diabetes Mellitus
+mRNA Transcription and Processing
+Adiponectin in Insulin Resistance Prevention
+BDNF Upregulation Triggered by Seizures
+Nuclear Lamina Cleavage
+beta-Cell Death in Diabetes Mellitus Type 2
+Proteins Involved in Endometrioid Ovarian Carcinoma
+Clear Cell Ovarian Carcinoma
+Osteoblast Function Decline in Osteoporosis
+Melanoma
+Osteoarthritis
+Proteins Involved in Female Infertility
+Insulin Influence on Glycogenesis
+Androgen Deficiency in Male Obesity
+Oxidation of Fatty Acid in non-Alcoholic Fatty Liver Disease
+CagA Phosphorylation Dependent Signaling
+IL6 Overexpression After Contraction in Skeletal Muscles in Muscular Dystrophies
+DNMT and MBD Families Activation in DNA Methylation in Cancer
+Osteoclast Activation in Multiple Myeloma
+Mast-Cell Activation in Asthma
+Cetuximab Resistance in Colorectal Cancer
+ADRB1 -> Prostaglandin Generation
+Valdecoxib Induced Ischemic Disease
+Gastric and Pancreatic Lipase Function
+TNF-alpha/TNFRSF1B Signaling
+Glutamate, D-Serine, and ATP Release from Astrocytes
+OipA Signaling in Helicobacter Pylori Infection
+Glutamate Overdose and Aura Effect Overiew
+Vascular Motility
+Proteins Involved in alpha 1-Antitrypsin Deficiency
+Toll-like Receptors in Pyelonephritis
+Glutamate Overdose and Aura Effect in Familial Hemiplegic Migraine Type 3
+Vitamin A (Retinol) Metabolism and Visual Cycle
+IL12R -> NF-kB/NFATC Signaling
+Adiponectin Synthesis Declines in Insulin Resistance
+Th2-Cell Differentiation
+Airway Smooth Muscle Cell High Rate Proliferation
+Protein Kinase C in Diabetic Microangiopathy
+Axonal Transport Impairment in Hungtington Disease
+MHC1 Causes Antigen Presentation Failure in Cancer Immune Escape
+Ca2+/Pi Reabsorption Decline in Kidney in Hyperparathyroidism
+HTR1 -> Membrane Transport
+Proteins Involved in Otitis Media
+Clozapine Induced Granulocytopenia
+TNFR -> CREB/ELK-SRF Signaling
+Proteins Involved in Werner Syndrome (Adult Progeria)
+Somatostatin Receptors Signaling
+Trabecular Meshwork and Schlemm's Canal Endothelial Cell Volume and Contractility
+Exocytosis: Vesicle Docking
+Dilated Cardiomyopathy
+Leptin in Insulin Synthesis and Secretion
+MERTK Signaling
+Proplatelet Maturation
+SCF/FBXO7 Complex
+DRD3 -> Dopamine Uptake
+InsulinR -> ELK/SRF/SREBF Signaling
+Aminoglycosides and Cisplatin Induced Ototoxicity (Mouse Model)
+Complement Activation in Alzheimer's Disease
+Proteins Involved in Osteoporosis
+CD46/CD55/CD59 Inhibit Complement Mediated Lysis of Cancer Cells
+CHRNA7 -> NOS1 Production
+Genes with Mutations Associated with Retinitis Pigmentosa
+Proteins Mutated in Cochlear Hair Cell Stereocilia
+NGFR -> AP-1/CEBPB/CREB/ELK/SRF/TP53 Signaling
+Preconditioning Ischemia
+Neurofibrillary Tangle Formation
+WHIM Syndrome
+Estrogens Procoagulant Effect
+HTR4/6/7 -> Vasodilation
+Direct DNA Repair Supression in Cancer
+Effector T-cell Inactivation in Cancer Immune Escape
+GDNF -> HSF1 Signaling
+TP53 Signaling in Hepatocellular Carcinoma
+WNT Signaling Dysregulation in Osteoblast
+Genes with Mutations Associated with Glomerulonephritis
+Proteins Involved in Helicobacter Infections
+Genes with Mutations Associated with Psoriasis
+NOTCH -> NF-kB Signaling
+MTOR/TORC in Cancer Cell Motility and Invasion
+PDGFR -> STAT Signaling
+I-cell: CCK-8 Secretion and Regulation of Eating Behavior
+Apoptosis of Chondrocyte
+Hematopoietic Cell Lineage: B-cell (mouse)
+Proteins with Altered Expression in Tumor-Promoting Inflammation
+IL15R -> NF-kB/NFATC Signaling
+TGF-beta Signaling in Skin Aging
+TGFB Family in Epithelial to Mesenchymal Transition in Cancer
+Transcription Factors in beta-Cell Neogenesis (Rodent Model)
+InsulinR -> STAT Signaling
+CHRNA7 -> IL8 Production
+Prostaglandins Role in Sleep Regulation
+NMDA Receptors -> Ca2+/CREB Activation/PGE2 Synthesis
+Th1-Cells Activation and Proliferation in Atherosclerosis
+TGFBR Signaling in Pancreatic Neoplasms
+AHR Signaling in Th17 Cells Function
+Proteins Involved in Insulin Resistance
+Skeletal Muscle Wasting in Cancer Cachexia
+Alstrom Syndrome Progression (Hypothesis)
+Vascular Endothelial Cell Activation by Growth Factors
+Proteins Involved in Retinitis Pigmentosa
+CHRM1/2/3/5 -> Ion Channels
+Mesangial Cell Dysfunction in Diabetic Nephropathy
+NOTCH Receptors Signaling
+Proteins Involved in Osteopetrosis
+Retrotransposons Regulation (Mouse Model)
+RNA and DNA Metabolism Dysregulation
+IL9R -> STAT Signaling
+Low-Grade Serous Ovarian Carcinoma
+TGFB Signaling activation by Blocking of Tumor Suppressors
+TGFBR -> SMAD1/5/9 Signaling
+CNR1/2 -> IL1B/2/4/6/10 Production
+Neurogenic Transcription Factors Role in Hirschsprung Disease
+AngiopoietinR -> FOXO Signaling
+Hypoparathyroidism, Primary
+Mineralcorticoids Secretion Regulation
+Alkalosis
+HRH1/2 -> Vascular Motility
+Oxytocin Action in Mammary Gland
+Single Strand Mismatch DNA Repair Suppression in Cancer
+Prolactinoma Overiew
+Hypothyroidism, Secondary (Central)
+Proteins Involved in Breast Cancer Related to WNT Signaling Pathway
+Pancreatic Neuroendocrine Tumors
+Desmosomes Role in Dilated Cardiomyopathy
+TGFBR -> MEF/MYOD/MYOG Signaling
+Dexamethasone Induced Diabetes
+Androgen Receptor/FKBP5 Signaling
+Proteins with Altered Expression in Polycystic Ovary Syndrome
+IL6 Expression Targets -> Nociception
+Proteins Involved in Mucinous Ovarian Carcinoma
+Treg-Cell Differentiation
+Complement Activation in Macular Degeneration
+Proteins Involved in Spontaneous Abortion
+Sebocyte Proliferation in Acne Vulgaris
+Ovarian Cancer
+IL1 Receptor Antagonist (IL1RN) Deficiency (DIRA)
+Androgen Receptor/Akt Signaling
+Kynurenine Metabolites in T-Cell Apoptosis
+Natural Killer Cell Activation
+Epithelial to Mesenchymal Transition in Cancer: Overview
+Hypothalamic-Pituitary-Adrenal Axis in Acute Phase Response
+Penile Detumescense Augmentation Mechanisms
+BMP2 and WNT Signaling in Pulmonary Artery Smooth Muscle Cells
+G2/M Damage Checkpoint
+CFTR Related Ion-Channel Dysfunction in Cystic Fibrosis Airway Epithelium (Class III Mutations)
+Adherens Junction Assembly (Nectin)
+Tertiary Hypothyroidism
+PTPRN/STAT5 in Insulin Synthesis in beta-Cell (Rodent Model)
+GFs/TNF -> Ion Channels
+ADRA1A -> IL6 Production
+Ritonavir Induced Cardiovascular Dysfunction
+Lipoxins and Resolvins in Inflammation Resolution
+Proteins Involved in Stem Cell Exhaustion in Aging
+Skin Fibrosis
+Familial Partial Lipodystrophy Type 3 Progression (Hypothesis)
+DRD2 -> TRPC1 Transcription
+Genes with Mutations Associated with Bardet-Biedl Syndrome and Retinitis Pigmentosa
+Invadopodia Formation in Cancer Cells
+tRNA Transcription and Processing
+NOTCH -> MEF/MYOD Signaling
+Cardiomyocyte Dysfunction
+Tight Junction Assembly (Occludin)
+Angiogenesis in Endometriosis
+B-Cell Acute Lymphoblastic Leukemia
+Ca2+ Toxicity in Neurons
+Proteins with Altered Expression in Cancer Metastases
+EGFR/ERBB2 -> HIF1A Signaling
+TAM Receptors in Platelet Aggregation
+VEGFR -> NFATC Signaling
+Citrullinemia Type II
+Proteins with Altered Expression in Muscular Dystrophy, Facioscapulohumeral
+MUC5AC Expression by NTHi and S. Pneumoniae
+beta-Cell Destruction in Diabetes Mellitus Type 1
+SELE -> ELK-SRF Signaling
+X-Linked Ichthyosis
+KISS1 Production Impairment in Hypogonadotropic hypogonadism
+Natural Killer Cell Activation through ITSM-Containing Receptors
+Adherens Junctions Dysfunction in Cardiomyocyte
+IL1R -> STAT3 Signaling
+EGFR Signaling
+Proteins Involved in Breast Cancer Related to ERBB2/VEGFR/Akt Signaling Pathway
+EGFR/ERBB2 -> CTNNB Signaling
+Proteins Involved in Oligodendroglioma
+Neurons Necrosis Caused by Energy Deficiency
+beta-Cell Mass Regulation
+Dectin-2 (CLEC6A)/Mincle (CLEC4E)/BDCA2 (CLEC4C) Signaling
+Hyper IgM Syndrome
+Vitamin D Represses Transcription
+Cardiovascular Effects in Hyperthyroidism
+Persistent Double Strand DNA Homologous Repair in Cancer
+Amyloid beta Clearance in Alzheimer Disease
+Skin Aging
+Plasmin Role in Glomerulonephritis
+Arachidonic Acid Metabolism
+Myeloid Derived Suppressor Cells in Cancer Immune Escape
+T-Cell Cytotoxic Activation
+Proteins Involved in Autistic Disorder and Aggression
+Natural Killer Cell Precursor -> Natural Killer Cell Surface Expression Markers
+EGFR -> NCOR2 Signaling
+Natural Killer Cell Activation through C-Type Lectin-like Receptors
+Monocytes Function in Gout
+LH and FSH Signaling and Steroidogenesis
+Proteins Involved in Thyroid Dysgenesis
+Retinoic Acid Role in Endometriosis
+Dentin Formation in Rothmund-Thomson Syndrome
+Metabolism of Glycerophospholipids and Ether Lipids
+Proteins with Altered Expression in Erectile Dysfunction
+Microtubule Cytoskeleton
+MYOC Associated Glaucoma
+Cortisol Signaling in Arterial Hypertension
+Dendritic Cell Dysfunction in Psoriatic Arthritis
+Ganglioside-Type Glycosphingolipid Biosynthesis
+IL23A and IL17A Provoke Cancer-Associated Inflammation
+CNR1/2 -> Vascular Motility
+HMGB1 and IL1B in Neuronal Hyperexcitation
+Antiphospholipid Antibodies in Endothelial Cell
+Glutamate Role in Parkinson's Disease
+Proteins Involved in Neonatal Diabetes Mellitus
+Insulin Release Inhibition by Somatostatins
+Diabetes Induced Cataract
+Kruppel-like Factor 6 Signaling in Prostate Cancer
+Testicular AMH Production
+EGFR and PTAFR Signaling in Ovarian Cancer
+Glutamate Overdose and Aura Effect Caused by Mutations in PRRT2 Gene
+Clear Cell Endometrial Cancer and Papillary Serous Endometrial Cancer
+T-Cell Genetic Rearrangements in Acute Lymphoblastic Leukemia
+WNT Signaling in Cystic Kidney Disease
+Bone Resorption by Osteoclasts in Osteoporosis
+MYOC in Cell Adhesion in Glaucoma
+MHC2-Mediated Antigen Presentation
+Genes with Mutations Associated with Aging in Humans
+HMGB1 and IL1B in Neuroinflammation
+B-Cell Receptor -> NF-kB Signaling
+Fatty Acid Synthase (FASN) Signaling
+Enterocyte Mediated Mucosal Damage in Celiac Disease
+WNT Canonical Signaling
+Proteins Involved in Alzheimer's Disease
+Arterial Hypertension
+Th1-Cell Function in Systemic Lupus Erythematosus
+Dioxin Role in Endometriosis
+Cathepsins Role in Periodontitis
+Dopamine Action in CSD Progression
+Circadian Clock Genes in Suprachiasmatic Nuclei Neurons
+Actin Cytoskeleton
+Glycolysis Activation in Cancer (Warburg Effect)
+MHC1-Mediated Antigen Presentation
+Desmosome Dysfunction in Cardiomyocyte
+EPCAM in Cancer Cell Motility and Proliferation
+Immunoglobulin Class-Switch Recombination via Classical non-Homologous End-Joining
+Complement Activation in Glomerulonephritis
+Proteins Involved in Noise-Induced Hearing Loss
+NOTCH1 Signaling in Breast Cancer
+Norepinephrine Release Regulation
+Phenylalanine Metabolism Disruption in Phenylketonuria
+Hypothyrodism Associated Hyperprolactinemia
+Oxidative Stress in Diabetic Neuropathy
+Fatty Acids in Hypertension and Atherosclerosis Development
+GPR3 in Oocyte Meiotic Arrest
+Male Sex Determination
+Mast-Cell Activation via IgE Signaling
+non-Genomic Rapid Actions of Vitamin D in Vitamin D Biology
+BMP2 and Canonical WNT Signaling in Pulmonary Artery Endothelial Cells
+CAV1 Dependent Senescence of Lung Fibroblasts
+Ammonia Effects on Brain Cells
+MEN1 Mutation in Hyperparathyroidism
+Oxidative Stress Protection via AHR-NFE2L2-NQO1 Signaling in Keratinocytes
+AHR Signaling in Treg and Dendritic Cells Function
+Hodgkin Lymphoma
+High Level of Homocystine Effects (Methylation Cycle)
+Proteins with Altered Expression in Rheumatoid Arthritis
+T-Cell Receptor -> CREBBP Signaling
+MC1R in anti-Inflammatory Signaling
+Neurotoxin Effects in Parkinson's Disease
+Genes with Mutations in Cancer Metabolic Reprogramming
+Hashimoto's Thyroiditis Triggers
+Proteins with Altered Expression in Osteoarthritis
+Tubular Cell Dysfunction in Progressive Diabetic Nephropathy
+CD2 -> STAT Signaling
+Glucocorticoid Resistance
+HTR4/6/7 -> Cation Channels
+Th1-Cell Differentiation
+Aralkylamine-N-Acetyltransferase-Associated Sleep Dysregulation
+Graves Ophthalmopathy
+eNOS (NOS3) Activation via Prostaglandin E2 and Histamine
+Toll-like Receptors (TLR) in Antiviral Innate Immune Response
+Complement Alternative Pathway
+MITF as a Regulator of Melanoma Cell Development
+Bradykinin Effects in Inflammation
+Genes with Mutations in Cancer-Associated Resisting to Cell Death
+PDGFR -> FOXO3A Signaling
+Dopamine Synthesis and Release
+CHRM1 -> IL2 Production
+Hypocretin Elevation and Monoamine Oxidase Decrease/Inhibition
+B-Cell Receptor -> NFATC Signaling
+NOTCH Signaling Deregulation in Cancer
+Cowden Syndrome
+Vitiligo
+Mevalonate Kinase Deficiency
+Antiphospholipid Antibodies and Endothelial Cell Interaction
+Extracellular Matrix Turnover
+Prolactin Induced Dopamin Synthesis by TIDA Neurons (Negative Feedback)
+Female Sex Determination
+FPR1 -> Cytoskeleton Signaling
+CHRNA3-B4/A4-B2/A7 -> Ion Transport
+Goblet-Cell Related Mucus Secretion in Asthma
+Proteins Involved in Amyotrophic Lateral Sclerosis
+Glutamate Toxiicity Effects on Striatum Medium Spiny Neurons in Hantington's Disease
+T-Cell Receptor -> NFATC Signaling
+BMP Signaling Impairment in Granulosa Cell in POF
+Proteins Involved in Muscular Dystrophy, Facioscapulohumeral
+Golgi Transport
+Th2-Cells Function in Systemic Scleroderma
+Leptin -> CD25/IL6/IL10 Production
+Rod Photoreceptor Signaling Impairment in Retinitis Pigmentosa
+VEGFR -> FOXO3A Signaling
+Doxorubicin Induced Cardiotoxicity
+Proteins Involved in Prostate Cancer
+Hereditary Thrombophilia and Pregnancy Complications
+VEGFR -> CTNNB Signaling
+ADRA1 -> Vasoconstriction
+FOXE1 Targets in Thyroid Dysgenesis (Hypothesis)
+Corneodesmosomes in Atopic Dermatitis
+Proteins with Altered Expression in Endometriosis
+MIR155 Role in Th17-Cell in Multiple Sclerosis
+Genes with Mutations Associated with Vitiligo
+Proteins with Altered Expression in Cancer-Associated Resisting to Cell Death
+Diffuse Large-B-Cell Lymphoma ABC Subtype
+Muscular Dystrophies
+Dopamine Receptors Signaling
+Proteins with Altered Expression in Androgenetic Alopecia
+Dihydrotestosterone Biosynthesis in Prostate Cancer
+Vascular Endothelial Cell Vasodilation in Brain
+IL13/STAT6/ZEB1 Signalling Promotes Cancer Metastatic Progression
+Uric Acid Synthesis in Gout
+Proteins Involved in Chronic Myeloid Leukemia
+Estrogens/ESR1 non-Genomic Signaling
+Visual Cycle in Retinal Rods
+Sodium Flux Regulation
+Agomelatine Antidepressant Action
+Hedgehog Signaling Activation by Blocking of Tumor Suppressors
+Proteins Involved in Hereditary Hemorrhagic Telangiectasia
+SERPINA1 Associated Liver Damage
+CCR1 Expression Targets
+Proteins Involved in Diabetic Nephropathy
+Genes with Mutations Associated with Urea Cycle Disorders
+Hemapoietic Stem Cell -> Lymphoid Multipotent Progenitor Surface Expression Markers
+Osteoclast Activation in Psoriatic Arthritis
+Growth Factor Signaling in Hepatocellular Carcinoma
+Adipocyte Hypertrophy and Hyperplasia
+B-Cell Activation in Crohn's Disease
+Adenosine Role in Sleep Regulation
+Steroid Hormones Steroidogenesis
+Coagulation Factors and PAR1/2 Receptors (F2R/F2RL1) in Endometriosis
+Endogenous Peptide Antigen Presentation
+Omega-6-Fatty Acid Metabolism
+Androgen Receptor/c-Met Signaling in Prostate Cancer
+Single Strand Nucleotide Excision DNA Repair Suppression in Cancer
+Gluten Impact on Neuronal System (Hypothesis)
+T-Cell Cytotoxic Response against Melanocytes in Vitiligo
+LINE1 Retrotransposition in Neuron Development (Hypothesis)
+TNFRSF1A -> CREB/ELK-SRF Signaling
+Diffuse Large-B-Cell Lymphoma
+B-Cell Chronic Lymphocytic Leukemia
+Bone Loss in Osteoporosis
+Genes with Mutations Associated with Hereditary Breast and/or Ovarian Cancer Syndrome
+Mucin Production in Goblet Airway Epithelial Cells
+PHOX2B Effects in Neuroblastoma
+Genes with Mutations Associated with Osteopetrosis
+PRL Expression Regulation by BMP4 and TGFB1
+CD4+T-Cell Response in Celiac Disease
+Familial Mediterranean Fever
+Hyperhomocysteinemia Induced Thrombophilia
+FAS Mediated Apoptosis in Systemic Scleroderma
+Antiphospholipid Antibodies in Platelets and Coagulation Cascade
+VEGFA High Expression Level in Pulmonary Emphysema
+Tumor Infiltrating Macrophages in Cancer Progression and Immune Escape
+JNK/MAPK Signaling
+Leptin and CCK8 Activate Nodose Ganglia Neuron
+Growth Factor Signaling in Neuroblastoma
+INHA Gene Mutations in Granulosa Cell Proliferation
+Hyperparathyroidism, Neonatal Severe
+HRH1/3 -> Synaptic Transmission
+Proteins with Altered Expression in Acne Vulgaris
+Genes with Mutations Associated with Atopic Dermatitis
+Exocytosis: Vesicle Fusion
+Epithelial Cell in the Saliva Formation
+Macroautophagy Decline
+Cancer Cells Inhibit Adipocyte Differentiation
+Genes with Mutations in Cancer Metabolic Reprogramming (Krebs Cycle)
+Olanzapine Effect on Insulin Secretion in Diabetes Mellitus
+Subepithelial Fibroblasts in Middle Ear Cholesteatoma
+N2 Neutrophils in Tumor-Promoting Inflammation and Tumor Progression
+Genes with Mutations Associated with Primary Ovarian Insufficiency
+Osteoclasts Function in Osteopetrosis
+Diabetes Induced Periodontitis
+Breast Cancer
+ERK/MAPK Canonical Signaling
+nNOS (NOS1) and iNOS (NOS2) Activation via Glutamate
+Proteins Involved in Adhesion, Migration and Invasion of Endometriotic Cell
+Proteins Involved in Polycystic Kidney Disease
+Proteins Involved in Celiac Disease
+Toll-like Receptors in beta-Cell
+GLIS3 Targets in Thyroid Dysgenesis (Hypothesis)
+MTOR/TP53 Regulates Cell Metabolism
+TNFRSF6 -> DDIT3 Signaling
+DNA Repair and Chromatin Remodeling Block in Pancreatic Neoplasms
+Th17-Cell Differentiation
+Myoblast -> Neutrophil Surface Expression Markers
+IGF1R -> ARRB1/ERK1/3 Signaling
+Acute Myeloid Leukemia
+T-Cell Cytotoxic Response in Ulcerative Colitis
+IL4R -> STAT Signaling
+Proteins Involved in Diffuse Large-B-Cell Lymphoma
+Proteins Involved in Glomerulonephritis
+NO Synthesis in Early Vasospasm
+Glutamate Mediated Neurotoxicity
+SWI/SNF BRM/BAF in Chromatin Remodeling
+IGF1R -> MEF/MYOD/MYOG Signaling
+SCF/BTRC Complex
+NKX2-1 in Thyroid Dysgenesis (Hypothesis)
+EGFR -> ZNF259 Signaling
+Proteins Involved in Medulloblastoma
+ANGPT/TEK Maintains Endothelial Cell Quiescence in Cancer
+TNFRSF5/6 -> RB1/E2F Signaling
+Natural Killer Cell Activation through Integrins and non-ITAM-Containing Receptors
+Rett Syndrome
+Genes with Mutations Associated with Melanoma
+Extracellular Matrix Reformation in Aging
+Complement System Defects in Systemic Lupus Erythematosis
+IL10R -> STAT Signaling
+Atopic Dermatitis Onset
+Hyperglycemia and Hyperlipidemia Trigger beta-Cell Apoptosis
+IFNLR1-> STAT/NFKB Signaling
+Proteins Involved in Psoriatic Arthritis
+T-Cell Cytotoxic Mediated Cell Death
+Cholesteatoma
+EPHA2 Mutations in Cataract
+APP and Glutamate Signaling Cause Neuronal Dysfunction in Alzheimer Disease
+Neutrophil Associated Lung Damage in Chronic Obstructive Pulmonary Disease
+Proteins with Altered Expression in Aging
+VEGFR -> CTNND Signaling
+TACR1 -> Membrane Transport
+Proteins Involved in Tangier Disease
+PGF2-alpha Effect on Treatment
+beta-Cell Granules Exocytois
+Genes with Mutations Associated with Age-Related Macular Degeneration
+Primary Mediastinal B-cell Lymphoma (PMBL) Subtype
+Dopamine Mediated Glutamate Release/Uptake Circle in Neuron in Migraine
+RHO Signaling (Light Signal Termination and Photoreceptor Recovery)
+Immune System Activation in Hyperthyroidism
+Alveolar Epithelial Cell Dysfunction in COPD
+Hormones Underlie Human Gastrointestinal Functions and Eating Behavior
+Ca2+ Overload in Muscular Dystrophies
+G-cell: Gastrin Secretion
+TGFBR1/AP-1 Signaling
+HIF1 Signaling
+Estradiol Effects in Menstrual Migrane
+Glutamate Overdose and Aura Effect Caused by Mutations in SLC1A3 Gene
+Endothelial Cell Dysfunction in Pulmonary Hypertension
+Circadian Clock in Sleep Regulation
+PARK7 and LRRK2 in Young Onset Parkinson's Disease
+NCAM1 -> CREB/ELK/SRF/MYC Signaling
+InsulinR -> CTNNB/FOXA/FOXO Signaling
+N-cell: Neurotensin Production
+CXCR4 -> ARRB1 Signaling
+Genes with Mutations Associated with Familial and Sporadic Hemiplegic Migraine
+TP53 Signaling in Pancreatic Neoplasms
+TRPM8 Effects in Prostate Cancer (Hypothesis)
+FOXO3 and PTEN Inactivation in Premature Ovarian Failure (Mouse Model)
+TLR4 -> IRF Signaling
+Mast-Cell Activation without Degranulation through IL33/IL1RL1 Signaling
+RARA Signaling in Acute Myeloid Leukemia (M3)
+Proteins Involved in Hearing Loss
+Melatonin Synthesis in Pinealocytes
+Alcoholic Dilated Cardiomyopathy (Mouse Model)
+PI3K/AKT/MTOR Signaling Activation in Cancer
+OR1A1 -> GNAS Signaling
+Adenosine/cAMP Promote Immunosuppression by Treg Cells
+Crohn's Disease
+AXL Receptor Tyrosine Kinase Signaling
+Vascular Smooth Muscle Cell/Pericyte Differentiation and Proliferation
+EGFR -> SMAD1 Signaling
+IL17 Signaling in Psoriasis
+Cataract, Congenital
+GRM2-4/6-8 (Presynaptic) -> Glutamate Release Attenuation
+Aldosterone Renal Effects
+FBLN5 Potentiates Migration and Proliferation of Endothelial Cells in Cancer
+FXN Role in Friedreich Ataxia Progression
+P-cell Activation
+SIRT2 Signaling in Aging
+OPTN Associated Glaucoma
+Goblet-Cell Exocytosis in Asthma
+IL6 Promotes Inflammation in Muscular Dystrophies
+Androgen Receptor and Cell Cycle in Prostate Cancer
+Centriole Duplication and Separation
+Retinoic Acid Signaling Inhibition in Pre-Puberty Block of Meiosis
+TRPM7/8 in Pancreatic Adenocarcinoma
+Central Hypothyroidism
+Proteins Involved in Sleep Disorders
+PRL and CSH Action in Mammary Gland
+Oncogene Induced Cellular Senescence
+SNCA in Young Onset Parkinson's Disease
+Sonic Hedgehog Signaling in Neuroblastoma
+EGFR Transactivation in Cancer and Non-Cancer Cells
+IL31R -> STAT Signaling
+Proteins Involved in Melanoma
+Hepatocellular Carcinoma
+Adipokines and Cytokines in Insulin Resistance in Skeletal Muscles
+BDKRB1/2 -> Prostaglandin Generation
+A-cell (X-like): Ghrelin and Nesfatin-1 Synthesis
+Ubiquitin Ligase Complex in Prostata Cell
+Lipoxin A4/FPR2-Related Neutrophil Depression
+Hyperammonemia Type II
+Hereditary Breast and Ovarian Cancer Syndrome
+Genes with Mutations Associated with Hyper IgM Syndrome
+Kynurenine Metabolites in Neurotoxicity and Neuroprotection
+Paneth-Cell Function in Crohn's Disease
+Hemidesmosome Assembly
+AGTR1 -> ARRB1/ARRB2 Signaling
+TSLP Signaling in Bronchial Epithelial Cell in Asthma
+BDKRB1/2 -> Interleukins Production
+Retinal Ganglion and Suprachiasmatic Nucleus in Melatonin Synthesis Regulation
+Mast-Cell Activation without Degranulation
+Spindle Assembly
+Multiple Myeloma
+Ion Channels of Stomach in Appetite Regulation
+Mast-Cell Related Chemokines Signaling in Asthma
+Visual Cycle in Retinal Cones
+TLR2 Signaling in Treg-Cell in Type 1 Diabetes (Animal Model)
+Proteins Involved in Endometriosis
+Glioblastoma, Primary
+Dopamine Synthesis and Release in Migraine
+Ubiquinoine Biosynthesis in Humans
+HRAS Signaling
+EGFR/ERBB -> STAT Signaling
+RET1 Mutation in Hyperparathyroidism
+GRM1/5 (Postsynaptic) -> Ion Channels
+Neutrophil Chemotaxis
+HRH1/2 -> Membrane Polarization
+Macrophage Function in Diabetes Mellitus Type 1
+Ubiquinoine Biosynthesis in Rats
+NURD in Chromatin Remodeling
+Proteins Involved in Azoospermia
+mTOR Signaling Activation by Fatty Acids and Glucose
+POMC Secretion in adenohypophysis
+ADRA2A -> Neurotransmitter Release
+Thyrotropin Releasing Hormone (TRH) Hypothalamic Release in non-Autoimmune Hypothyroidism
+PARK2/PINK1/UCHL1 in Young Onset Parkinson's Disease
+Mitochondrial DNA Replication and Transcription
+Melanocyte Role in Skin Aging
+GNRH Signaling Impairment in Hypogonadotrophic Hypogonadism
+D-cell: Somatostatin Release
+Basophil Activation in Asthma
+PECAM -> STAT Signaling
+AHR Signaling in M1 Macrophages Function
+Lipogenesis/Lipolysis Activation in Cancer Cells and Cancer-Associated Adipocytes
+NOTCH -> TCF3 Signaling
+Proliferative Diabetic Retinopathy
+SIRT3 Signaling in Aging
+Direct DNA Repair
+Proteins Involved in Polycystic Ovary Syndrome
+Scavenger Receptors in Platelet Aggregation
+Mast-Cells Activation in Atopic Dermatitis
+Interstitial Fibroblasts in Pyelonephritis
+Ras-GRF Regulation Signaling
+Macrophage Related Iron Uptake and Release
+Eicosanoids in Myeloid Cell Activation
+Necrosis
+DRD1/5 Expression Targets
+Nuclear Envelope in Cell Division
+Sleep Disturbance (Hypothesis)
+CRH Secretion Regulation
+Th17-Cell Function in Systemic Lupus Erythematosus
+Werner Syndrome (Adult Progeria)
+Argininemia
+NGFR -> MEF Signaling
+Selencompound Biosynthesis
+Genes with Mutations in Cancer-Associated Histone Deacetylation
+Proteins Involved in Astrocytoma
+alpha-Cell to beta-Cell Interconversion (Hypothesis)
+Brain Cell Necrosis in Vascular Dementia
+Megakaryocyte -> Platelet Precursor Cell Surface Expression Markers
+ROS in Angiotensin Mediated Cardiovascular Remodeling and Hypertrophy
+Keep out Signal: LTF Inhibits Neutrophil Recruitment and Inflammation
+P2RY11/13/14 -> IL8/10 Production
+Hodgkin and Reed-Sternberg Cells in Hodgkin Lymphoma
+Proteins Involved in Rheumatoid Arthritis
+Proteins Involved in Epilepsy
+Trophoblast Damage in Infertility (Hypothesis)
+beta-Cell Destruction through Cytokines in Diabetes Mellitus
+Th2-Cell Function in Systemic Lupus Erythematosus
+IL6/IGF1/VEGFA Signaling in Multiple Myeloma
+Proteins Involved in HPV Infection
+Prolactin Production
+Thymic Follicular Hyperplasia
+Proteins Involved in Frontotemporal Dementia
+Proteins with Altered Expression in Prostate Cancer
+PTGIR -> IL6 Production
+Adipose Tissue Inflammation Provokes Insulin Resistance
+TGFBR -> ATF/GADD/MAX/TP53 Signaling
+Extracellular Matrix Degradation in Skin Aging
+EctodysplasinR -> LEF1 Signaling
+Plasmacytoid Dendritic Cell in Diabetes Mellitus Type 1
+Drugs Targets in Autistic Disoreder (Hypothesis)
+Proteins Involved in Hypothyroidism
+ROS in Triggering Vascular Inflammation
+Proteins Involved in Raynaud Disease
+Proerythroblast -> Erythrocyte Surface Expression Markers
+ADRA1 -> Ion Channels
+IGF1R -> CEBPA/FOXO1A Signaling
+Double Strand DNA Homologous Repair
+Blood-Brain Barrier Disruption in Epileptiform Disorders
+EGFR -> CTNND Signaling
+Thyroid Hormones in Adipose Tissue Metabolism
+Proteins Mutated in Photoreceptor and Retinal Pigment Epithelial Cell
+VEGFA Low Expression Level in Chronic Bronchitis
+Kidney Cells Cilia Organization
+EZH2 Methyltransferase Role in Cancer
+Cytokines Trigger Otitis Media
+Il17 Signaling Related Neutrophilia in Asthma
+ADRA1 -> Prostaglandin Generation
+Microglia Activation in Alzheimer's Disease
+Glioblastoma, Secondary
+RNase L Signaling in Prostate Cancer
+ERBB2/3 -> EP300/ETS/ETV/SP1 Signaling
+VEGFR -> AP-1/CREB/MYC Signaling
+Acid Secretion by Collecting Duct of Kidney Nephron
+Complement Component GPCRs Signaling
+T-Cells Differentiation Block in Psoriasis
+TGF-beta Signaling
+Pancreatic Ductal Carcinoma
+mRNA Degradation
+Prostate Cancer
+Myeloblast -> Neutrophil Surface Expression Markers
+Ethanol Induced Efects in Hyperprolactinemia
+Proteins Involved in Myasthenia Gravis
+Transcytosis
+Autocrine Cytokine/Chemokine Loops in Systemic Scleroderma
+Lactate as a Signaling Molecule in Cancer Cells
+WNT Signaling Activation by Blocking of Tumor Suppressors
+Thyroid Hormones Common Genomic Effects in Hyperthyroidism
+NF-kB Canonical Signaling
+FibronectinR -> NF-kB Signaling
+Proteins Involved in Inflammatory Bowel Diseases
+TACR1 -> TNF/IL6/IL8 Production
+Hedgehog Signaling Activation in Cancer
+HPV Entry into the Keratinocyte
+G0/G1 Phase Transition
+Androgen Receptor/NKX3-1 Signaling
+Hereditary Hemorrhagic Telangiectasia
+ADAM33 Role in Asthma
+Proteins Involved in Vitiligo
+ECL-cell: CHGA and Histamine Synthesis
+Proteins Involved in Pancreatic Cancer
+TAAR1 -> Neurotransmitter Uptake
+Annexins in Inflammation Resolution
+B-Cell Differentiation Inhibition by Dioxin
+CD8+ T-Cell Action Impairment in HIV Type 1 Infection
+Proteins Involved in Antiphospholipid Syndrome
+Proteins Involved in Breast Cancer Related to NOTCH Signaling Pathway
+Ca2+ Reabsorption Decline in Kidney
+Local Estrogen Production in Endometriosis
+Microglia and Motor Neuron Interaction Dysregulation
+PASK Senses and Regulates Glucose Homeostasis
+Proteins with Altered Expression in Medulloblastoma
+L-cell: GCG, PYY and 5-HT Release
+Glucocorticoids in Insulin Resistance in Skeletal Muscles
+Dendritic Cell Dysfunction in Crohn's disease
+PTPRC -> BCL6 Signaling
+Hyperosmotic Stress in Diabetic Neuropathy
+Cyclosporine Induced Nephrotoxicity
+Proteins Involved in Periodontitis
+Antiviral Signaling through Pattern Recognition Receptors
+AHR in Intestinal Cell Antimicrobial Barrier Maintenance
+AngiopoietinR -> STAT Signaling
+Proteins Involved in Multiple Myeloma
+Sarcomere Disorganization and Intracellular Calcium Overload
+Protein Oxidation and Aggregation in Aging
+Leukocyte Adhesion to Endothelial Cell
+VEGFA Dependent Angiogenesis in Cancer
+Proteins Involved in MELAS Syndrome
+Proteins Involved in Sleep Initiation and Maintenance Disorders
+Proteins Involved in Age-Related Macular Degeneration
+IL17F Signaling in Bronchial Epithelial Cell in Asthma
+CD19 -> JUN/ELK Signaling
+Immunoglobulin Class-Switch Recombination Activation
+CA4 Induces Apoptosis of Choriocapillaris Endothelial Cells in RP
+Apoptosis Block by Death Receptor Signaling in Cancer
+Proteins Involved in Follicular Lymphoma
+SCF/SKP2 Complex
+Oxidative Stress in Vitiligo
+Familial Partial Lipodystrophy Type 2 Progression (Hypothesis)
+CNR1/2 -> Membrane Transport
+Persisted DNA Repair Triggers Genomic Instability
+ESR1/ERBB Positive Luminal Breast Cancer
+CD8+ T-Cell Response to Self-Determinants in Diabetes
+Proteins with Altered Expression in Cancer-Associated Enabling of Replicative Immortality
+STAT3 Facilitates the Function of Treg Cells and Cancer Progression
+Proteins Involved in Angelman Syndrome
+ALK -> STAT Signaling
+ROS and RNS in Vasoconstriction and Vasodilation Regulation
+Alzheimer's Disease
+KIT -> STAT Signaling
+Gap Junction Assembly
+Hexosamine Pathway in Diabetic Microangiopathy
+Epithelial Cell in the Innate Immune Response in Ulcerative Colitis
+Neutrophil Activation via Adherence on Endothelial Cells
+Astrocytoma
+TGFBR -> CREB/ELK-SRF Signaling
+Proteins Involved in Thyroid Hormone Resistance
+AngiopoietinR -> AP-1 Signaling
+Activin, Inhibin and Follistatin Action on Pituitary Gland
+Proteins Involved in Acute Myeloid Leukemia
+Integrins in Cancer Cell Motility, Invasion and Survival
+Longevity Related Drugs
+POMC Activation in Keratinocytes
+Proteins Involved in non-Alcoholic Fatty Liver Disease
+TGFBR -> AP-1 Signaling
+NFKB Non-Canonical Signaling Activation in Cancer
+Th1-Cell Activation in Crohn's Disease
+Vascular Endothelial Cell Activation by Cytokines
+OPRK -> Pain Perception
+Complement Cascade Activation by Pentraxins
+LH and FSH Signaling Impairment in Primary Ovarian Insufficiency
+Cell Cycle Dysregulation in Melanoma
+Proteins Involved in Urolithiasis
+Vitamin D Activates Transcription
+Proteins with Altered Expression in Cancer-Associated DNA Methylation
+NOD-like Receptors
+IL13R -> STAT6 Signaling
+TNFRSF5/13B -> NFATC1 Signaling
+Proteins Involved in Cystic Kidney Disease
+Bone Resorption in Hyperparathyroidism
+FGFR -> AP-1/CREB/CREBBP/ELK/SRF/MYC Signaling
+PTGER1/4 -> Vascular Motility
+UrokinaseR -> ELK/SRF Signaling
+Histidine-Rich Glycoprotein (HRG)
+Apoptosis Block by Inhibitor of Apoptosis Proteins (IAPs) in Cancer
+Th17-Cell and Th1 Immune Responsein Psoriatic Arthritis
+T-Cell Central Tolerance
+Cell Cycle Dysregulation in Mantle Cell Lymphoma
+V(D)J Recombination
+Amyloid beta and APP Intracellular Transport in Alzheimer Disease
+Disorders of Phenylalanine and Tyrosine Metabolism
+Ovulation Block
+NFKB Signaling Activation by Blocking of Tumor Suppressors
+FSH Hyperproduction Due to INHA Mutation in Primary Ovarian Insufficiency
+NO Effect on Vasodilation and Vasoconstriction
+PTPN22 Role in Rheumatoid Arthritis
+GABA(B)R -> Postsynaptic Inhibition
+High Fat Diet Activates cAMP Related Exocytosis in Synapse and Endocrine Cell
+SWI/SNF BRG1/BAF in Chromatin Remodeling
+TNFR/NF-kB Alternative Pathway in Multiple Myeloma Plasma Cells
+ROS in Neutrophil Mediated Cell Damage
+GCG and PPY Regulate Metabolism and Satiety
+Amyloid beta Formation in Alzheimer Disease
+Myeloid Progenitor Cell -> GEMM - CFU Surface Expression Markers
+STK11 Signaling in Pancreatic Neoplasms
+SWI/SNF BRG1/PBAF in Chromatin Remodeling
+Proteins with Altered Expression in Ovarian Cancer
+IL11R -> STAT3 Signaling
+Cocaine Induced Hepatotoxicity
+Angelman Syndrome: Effects of Mutation of Maternal Copy of UBE3A Gene
+Peripheral Tolerance to Autoantigens Recession in Diabetes Mellitus Type 1
+HGFR -> STAT Signaling
+Mitochondrial Respiratory Chain Dysfunction
+DRD1/3 -> Potassium Uptake
+Basophil Activation
+non-Suppressive Treg-Cell in Diabetes Mellitus Type 1
+Single-Strand Nucleotide Excision
+Myocardial Infarction
+Genes with Mutations Associated with Frontotemporal Dementia
+T-Cell Receptor -> AP-1 Signaling
+PTGIR -> Vasodilation
+Androgen Receptor Genomic Signaling
+NF-kB non-Canonical Signaling
+Complement Classical Pathway
+Thyroid Stimulating Hormone (TSH) Secretion in Overt Hypothyroidism
+Ca2+ Absorption Decline in Intestine in Osteoporosis
+IL2R -> STAT Signaling
+Asbestosis- and Silicosis-Associated Inflammation Provokes Cancer Development
+Proteins Involved in Endometrial Cancer
+IL27R -> STAT Signaling
+Proteins Involved in Ichthyosis
+Mast-Cell Activation without Degranulation through CRHR1 Signaling
+Genes with Mutations Associated with Gout
+Growth Factor Signaling in Pancreatic Neoplasms
+Axonal Transport
+APC/C-CDC20 Complex
+Proteins Involved in Primary Ovarian Insufficiency
+Myocarditis, Acute Viral Overiew
+HTR2 -> Membrane Transport
+Insulin Secretion
+MGAM Inhibitors
+Proteins Involved in Dental Caries
+Proteins Involved in Ulcerative Colitis
+WNT/Calcium non-Canonical Signaling
+Proteins Involved in Diabetic Neuropathy
+Lipid Metabolism Impairement in non-Alcoholic Fatty Liver Disease
+Insulin Resistance in Hepatocytes
+Nitroxyl and CGRP in Migraine Pain Activation
+Aqueous Humor Production
+Vascular Endothelial Cell Permeability Activation
+Genes with Mutations in Cancer-Associated Enabling of Replicative Immortality
+Genes with Mutations Associated with Vascular Dementia
+Proteins Involved in Parkinson's Disease
+DRD2/4 -> Membrane Transport
+mTOR Signaling Activation by Amino Acids
+Adipokines Production by Adipocyte Impaired in Obesity
+APC/C-FZR1 Complex
+Proteins Involved in Clear Cell Ovarian Carcinoma
+Dendritic Cells Function in Psoriasis
+EphrinR -> Actin Signaling
+Proteins Involved in Atherosclerosis
+Hepatic Stellate Cells in non-Alcoholic Fatty Liver Disease
+Ghrelin and SST Regulate GH1 Release in Hypothalamus
+Melatonin in Cell Survival and Antioxidant Response
+Proteins Involved in Myocarditis
+Proteins with Altered Expression in Cancer Metabolic Reprogramming (Krebs Cycle)
+VEGFR -> STAT Signaling
+Histone Sumoylation
+Metals and Amyloid beta Toxicity in Alzheimer's Disease
+ANGPT/TEK Stimulates Endothelial Cell Migration in Cancer
+ERK5/MAPK7 Signaling
+NOTCH Signaling in Multiple Myeloma
+NTRK -> FOXO/MYCN Signaling
+DRD2 Pharmacological Inhibition in Hyperprolactinemia
+Citrullinemia Type I
+Proteins with Altered Expression in Pyelonephritis
+Splenic Marginal Zone Lymphoma
+ActivinR -> SMAD2/3 Signaling
+TNFRSF1A -> AP-1/ATF/TP53 Signaling
+B-Cell Receptor -> AP-1 Signaling
+Proteins Involved in Pathogenesis of Arrhythmogenic Right Ventricular Cardiomyopathy
+IL13R -> STAT Signaling
+Cold Stress and Adrenoceptor alpha 2C Signaling in Raynaud Disease
+Mitochondria Enlargement and Apoptosis in Alzheimer's Disease
+Hemoglobin Reduction and Leukocyte Adhesion Initiate Vasospasm
+NTRK1/2/3 -> Acetylcholine Production
+Genes with Mutations Associated with Urolithiasis
+Complement Activation by Lectin
+Glutamate Overdose and Aura Effect in Migraine Type 1
+P2RY2/12/13/14 -> N-Type Calcium Channel
+CFTR Expression in Epithelial Cells (Class I Mutations)
+V(D)J Recombination Activation
+Ketogenic Diet Mechanism (Hypothesis)
+Peripheral Tissue Microangiopathy
+Genes with Mutations in Cancer-Associated Sustaining of Proliferative Signaling
+Metastatic Colorectal Cancer
+Proteins Involved in Usher Syndromes
+DDR1 -> NF-kB Signaling
+Podocyte Dysfunction in Glomerulonephritis
+Angelman Syndrome: Mechanism of Repression of Paternal UBE3A Gene in Brain
+Proteins Involved in Hyperprolactinemia
+Proteins Involved in Breast Cancer Related to IGF1R/Akt Signaling Pathway
+CD8+ T-Cell Response in Celiac Disease
+IL2R -> ELK/SRF/MYC Signaling
+Proteins Involved in Cryptorchidism
+Glutamate Mediated Excitotoxicity in Amyotrophic Lateral Sclerosis
+Myostatin in Skeletal Muscles in Muscular Dystrophies
+CD4+ T-Cell Death in HIV
+Polycystic Ovary Syndrome
+G-Proteins Signaling in Insulin Secretion in beta-Cell
+Hyperparathyroidism, Secondary Effect
+Plasmin Effects in Inflammation
+Reperfusion Injury in Myocardial ischemia
+Taste Receptors Activation in Tongue
+Telogen Maintenance in Androgenic Alopecia
+Syndromic Forms in Hirschsprung Disease
+ARRB1/ARRB2 non-CanonicalSignaling and HedgehogFamily
+STAT3 Inhibits Maturation of Dendritic Cells and Facilitates Cancer Progression
+CD157/ITGB2 Signaling in Myeloid Cell
+Vascular Endothelial Cell Activation by Blood Coagulation Factors
+TNFR -> AP-1/ATF/TP53 Signaling
+Endothelial Cell Dysfunction in Arterial Hypertension
+Proteins Involved in Colorectal Neoplasms
+FGFR3 -> STAT Signaling
+Podocyte Dysfunction in Diabetic Nephropathy
+Mast-Cells De Novo Synthesized Mediators via IgE Independent Signaling
+Proteins with Altered Expression in Cancer-Associated Evading of Growth Suppressors
+Potassium Cycling in the Inner Ear (Congenital Deafness)
+EGFR/ERBB3 -> MEF/MYOD/NFATC/MYOG Signaling
+Vitamin C Related Norepinephrine Synthesis
+Lipodystrophy, Familial Partial
+Respiratory Chain Impairment in Cancer
+Proteins Involved in Vasospasm
+T-Cell Maturation (Hypothesis)
+SIRT4 Signaling in Aging
+VEGFA/NOTCH1/WNT Cross-talk in Blood Vessel Sprouting and Branching in Cancer
+Autoimmune Polyglandular Syndromes Progression (Hypothesis)
+Coagulation Cascade
+IL1R -> NF-kB Signaling
+BSG (CD147) in Cancer Cells Motility, Invasion and Survival
+Maturity Onset Diabetes of the Young (MODY)
+Androgen Receptor/Prostate Specific Antigen Signaling in Prostate Cancer
+Replication Stress Triggers Genomic Instability
+EctodysplasinR -> NF-kB Signaling
+MBP/MOG/PLP in Immune System Activation
+Iodine Metabolism Related Thyroid Dyshormonogenesis
+Telomer Attrition Triggers Genomic Instability
+FcIgER -> NFATC1 Signaling
+T-Cell Acute Lymphoblastic Leukemia
+KRAS Signaling
+Genes with Mutations Associated with Cataract
+SIRT1 Signaling in Aging
+EGFR -> AP-1/ATF2 Signaling
+Serotonin Receptors Signaling
+GABA Release
+Proteins Involved in Hirschsprung Disease
+IL3R -> STAT Signaling
+HGFR -> AP-1/CREB/MYC Signaling
+TGFBR/BMPR -> SMAD2/3 Signaling
+Dysgenesis of the Anterior Segment of the Eye in Glaucoma
+Myocardial Remodeling
+CD38/CD19 -> JUN/FOS/NF-kB Signaling in B-cell Proliferation
+Smooth Muscle Cell Dysfunction in Pulmonary Hypertension
+Apoptosis of Renal Tubule Epithelial Cell in Pyelonephritis
+TRRAP/TIP60 in Chromatin Remodeling
+Alveolar Epithelial Cell Apoptosis in COPD
+TNFR -> NF-kB Signaling
+EGFR Nuclear Signaling in Colorectal Cancer
+Follicular Lymphoma
+Genes with Mutations Associated with Osteoporosis
+Prostaglandin E2 Synthesis Activation via Glutamate in Familial Hemiplegic Migraine
+mTOR/NF-kB/BCR Signaling Disregulation in Mantle Cell Lymphoma
+Mesangial Cell Dysfunction in Glomerulonephritis
+Huntingtin Gene Mutation in Striatal Neuron
+Histone Phosphorylation
+AMPK Related Catabolism Deceleration in Glucose Insufficiency
+Aryl Hydrocarbon Receptor Genomic and non-Genomic Signaling
+Sertoli Cells Dysfunction Causes Male Infertility
+TNF and IL1B Induce Metalloproteinase Synthesis in Osteoarthritis
+BMP/TGF-beta Signaling Impairment in Pulmonary Hypertension
+T-Cells Passage through the Blood-Brain Barrier
+NOTCH -> RBPJ/HES/HEY Signaling
+T-Cell Receptor -> STAT Signaling
+Renal Tubular Acidosis Associated with Carbonic Anhydrase II Mutation and Osteopetrosis
+Huntingtin Mutant Protein Toxicity Effects
+Omega-3-Fatty Acid Metabolism
+NOTCH -> LEF1 Signaling
+SPP1 Induced Survival of Myelin Specific T-Cells in Multiple Sclerosis
+Glioma Stem Cell Program Activation
+Intraflagellar Transport: BBSome Interaction
+Genes with Mutations Associated with Ovarian Cancer
+Catecholamines Secretion from Adrenal Gland
+Kynurenine/AHR Signaling in Treg Cell Activation
+Persistent Double Strand DNA non-Homologous Repair in Cancer
+HTR7 -> IL6 Production
+IL6ST -> STAT5B Signaling
+Ghrelin Influence on Insulin Secretion (Hypothesis)
+HCAR1/HCAR2 -> MAPK Signaling
+TLR -> ARRB2/NF-kB Signaling
+Synovial Fibroblast Proliferation in Rheumatoid Arthritis
+EPHB -> NMDA Receptor Activation
+Rod Visual Cycle Impairment in Retinitis pigmentosa
+Exocytosis: Vesicle Tethering
+TLR3 -> IRF Signaling
+RHO Signaling (Dark)
+Lamellipodia and Filopodia Formation in Cancer
+PDGFR -> AP-1/MYC Signaling
+CFTR in Sperm Capacitation and Acrosome Reaction
+Dopamine Mediated Glutamate Release and Glutamate Uptake Circle
+Proteins Involved in Breast Cancer Related to ESR1 Signaling Pathway
+FLT3/KIT/MLL Signaling in Leukemia
+Tight Junction Assembly (Claudins)
+WNT Canonical Signaling in Mantle Cell Lymphoma
+Proteins Involved in Glioblastoma
+Polycystins Mutation Effects in Cystic Kidney Disease
+Ritonavir Induced Diabetes
+Osteoclast Activation in Postmenopause
+PI3K/AKT/MTOR Signaling Activation by Blocking of Tumor Suppressors
+Epinephrine/Norepinephrine Release
+MPB-Related Complement Cascade Activation
+Airway Epithelial Cell Dysfunction
+PPARGC1A Repression in Huntington Disease
+NGFR -> NF-kB Signaling
+Single Strand Base Excision DNA Repair Impairment in Cancer
+Extraocular Muscles Weakness in Myasthenia Gravis
+Histamine in Arousal Regulation
+CDKN2B-AS1 in Epigenetic Regulation of Glaucoma
+P2RXs -> Synaptic Transmission
+mTOR Signaling Activation by Taste Sensor Receptors (Rodent Model)
+non-Hereditary Genetic Rearrangements in Neuroblastoma
+Apoptosis of Cochlear Hair Cells (Noise-Induced, Mouse Model)
+Proteins Involved in Bronchiectasis
+IL6/IL12 Signaling Activates Immune System in Multiple Sclerosis
+Peripheral T-Cell Tolerance
+Histamine Effects in Inflammation
+Intraflagellar Transport: Retrograde Transport
+IL6 and Insulin Resistance in Muscular Dystrophies
+HTR5 -> TNF Production
+IL21R -> STAT Signaling
+Neutrophil Recruitment and Priming
+T-Cell Dependent B-Cell Activation
+IL4R -> ELK/SRF/HMGY Signaling
+Eat me Signal: Apoptotic Cell Initiates Phagocytosis
+IL7R -> STAT Signaling
+S/G2 Phase Transition
+Eosinophil Survival by Cytokine Signaling
+Proteins with Altered Expression in Cancer Metabolic Reprogramming
+Oxidative Stress in Amyotrophic Lateral Sclerosis
+Glioma Invasion Signaling
+Toll-like Receptor Independent Sterile Inflammation
+Androgen Receptor/Beta-2-Microglobulin Signaling in Prostate Cancer
+ICAM2 -> CTNNB/FOXO/STAT3 Signaling
+FOXL2 Mutation in Ovarian Dysgenesis
+DCIR1 (CLEC4A) Signaling
+Apoptosis and Immediate Early Gene Activation in Epileptiform Disorders
+Genes with Mutations Associated with Usher Syndrome and Retinitis Pigmentosa
+Proteins with Altered Expression in Cancer-Associated Sustaining of Proliferative Signaling
+Proteins Involved in Osteoarthritis
+Salivary Proteins Role in Periodontitis
+Humoral Immunity in Vitiligo
+DC-SIGN (CD209) Signaling
+Leukocyte Migration toward the Endothelial Cell in Ulcerative Colitis
+IL1B Expression Targets -> Nociception
+Neurotrophic Factor Deprivation in Retinal Ganglion Cell Death
+FOXM1 Signaling in Prostate Cancer
+Mitochondrial Protein Transport
+Hair Follicle Keratinocyte Apoptosis
+mTOR Signaling
+Translation
+CFTR Misfolding and Degradation (Class II Mutations)
+Mucinous Ovarian Carcinoma
+VEGF Independent Angiogenesis in Cancer
+Co-Translational ER Protein Import
+TLR4 Signaling in Leukocytes
+SIRT7 Signaling in Aging
+TLR1/2/6 -> NF-kB Signaling
+Endothelial Cell Dysfunction in Progressive Diabetic Nephropathy
+GUCYC2 Signaling
+NPR1/NPR2 -> Fatty Acid Signaling
+Proteins with Altered Expression in Cystic Fibrosis
+Inhibition of THBS1 Activates Angiogenesis in Cancer
+EGFR -> AP-1/CREB/ELK/SRF/MYC Signaling
+Proteins with Altered Expression in Atopic Dermatitis
+Proteins Involved in Hypogonadotropic Hypogonadism
+ADRA2C/ADRB2 -> Vasoconstriction
+Genes with Mutations in Cancer-Associated Histone Methylation
+Smooth Muscle Cell Dysfunction in Arterial Hypertension
+FibronectinR -> CTNNB Signaling
+Brain Dysfunction in Phenylketonuria
+Fatty Acids Block TLR Signaling in Enteroendocrine Cell
+Thyroid Hormones Common non-Genomic Effects in Hyperthyroidism
+IFN-gamma/TNF-alpha Mediated Cell Proliferation in Psoriasis
+PAX8 Targets in Thyroid Dysgenesis (Hypothesis)
+HPV Infection and Cancer
+ADORA2A/B -> Vasodilation
+Proteins Involved in Arterial Hypertension
+SERPINA1 Associated Pulmonary Emphysema
+TNFR/NF-kB Classical Pathway in Multiple Myeloma Plasma Cells
+Hashimoto's Thyroiditis
+MacrophageR -> CEBPB -> NF-kB Signaling
+Mitochondrial Dysfunction in Alzheimer's Disease
+Neutrophil and Macrophage Function in Systemic Lupus Erythematosus
+Macrophage M1 Lineage
+NF-kB Signaling Activation in Huntington Disease
+Scavenger Receptor OLR1 in Inflammation Related Endothelial Dysfunction
+Toll-like Receptors (TLR) in Periodontitis
+Endothelial Cell Dysfunction in Glomerulonephritis
+Positive Acute Phase Proteins Synthesis
+RNA Gene Silencing
+IL12R -> STAT Signaling
+Endosomal Trafficking Dysregulation in Amyotrophic Lateral Sclerosis
+UrokinaseR -> STAT Signaling
+Proteins Involved in Friedreich Ataxia
+PAPA Syndrome
+Apoptosis
+Aldosterone Synthesis Acute Regulation
+WNT in Epithelial to Mesenchymal Transition in Cancer
+Proteins Involved in Systemic Lupus Erythematosus
+T-Cell Receptor Signaling
+Genes with Mutations in Cancer-Associated Evading of Growth Suppressors
+Tamoxifen Induced Endometrial Cancer
+Endometrioid Ovarian Carcinoma
+ADK Expression Upregulation
+anti-Inflammatory Function of Macrophage M2 Lineage
+HPV E1 and E2 Expression in Early Phase of Cancer
+Immunoglobulin Genes Transcriptional Activation
+Cryptorchidism Molecular Mechanism (Hypothesis)
+TNFRSF1A -> STAT Signaling
+Proteins with Altered Expression in Endometrial Cancer
+Lymphoma, GCB Subtype
+RAS/RAF/MAPK Signaling Activation in Cancer
+B-Cells Function in Systemic Scleroderma
+CD8+ Naive T-cell -> CD4+ Naive T-cell Surface Expression Markers
+RAS/RAF/MAPK Signaling Activation by Blocking of Tumor Suppressors
+Proteins Involved in Migraine
+ADRA2C/ADRB2 -> Synaptic Endocytosis
+Proteins with Altered Expression in Psoriasis
+Proteins Involved in Hepatocellular Carcinoma
+Apoptosis of Myocyte
+MicroRNAs in Epithelial to Mesenchymal Transition in Cancer
+AGER -> NF-kB Signaling
+Glycolysis
+HRH2/4 -> IL6/10 Production
+Cochlear Hair Cell Synapse Proteins Mutations (Age-Related/Congenital)
+WNT Planar Cell Polarity (PCP) non-Canonical Signaling
+Vasodilation Activation
+GLP1R -> ARRB1 Signaling
+Microtubule Organization Dysregulation (Hypothesis)
+Hyaluronic Acid, CD44 and HMMR in Cancer Cell Invasion and Survival
+Potassium Flux Regulation
+Negative Acute Phase Proteins Synthesis
+P2RY1/2/4/6 -> Potassium Channels
+Synovial Fibroblast Activation in Psoriatic Arthritis
+MTNR1 Signaling
+ARRB2 and Frizzled Receptors Endocytosis
+HIF1A as Master Regulator of Angiogenesis in Cancer
+Proteins Involved in Glaucoma
+Th2-Cell Response in Asthma
+CUL4/CRL (SCF4) Complex
+CDH1 Down regulation Promotes Cancer Cell Migration and Metastases
+Dexamethasone Induced Osteoporosis
+Low-Density Lipoproteins and Chemokines in Atherosclerosis
+Insulin Resistance in Myocytes Induced by Obesity
+Proteins Involved in Diabetes Mellitus Type 2
+Macrophage M2-Related Phagocytosis
+Fragile X Syndrome
+Th0-Cell Aberrant Activation in Systemic Lupus Erythematosus
+Histone Methylation
+Mucosa-Associated Lymphoid Tissue (MALT) Lymphoma
+Proteins with Altered Expression in Cancer-Associated Dysregulated DNA Repair
+Proteins Involved in Dilated Cardiomyopathy
+Androgen Receptor/SGK1 Signaling
+Proteins with Altered Expression in Systemic Scleroderma
+Chromosome Condensation
+Proteins Involved in Multiple Sclerosis
+Proteins Involved in Fragile X Syndrome
+SRCAP in Chromatin Remodeling
+Proteins Involved in High-Grade Serous Ovarian Carcinoma
+Dentin and Enamel Dysruprion in Bloch-Sulzberger Syndrome
+Proteins Involved in Congenital Deafness
+CD16/CD14 Proinflammatory Monocyte Activation
+CXC Chemokine Receptor Signaling
+Leukotriene Effect on Vascular Endothelial Cell Response
+Potassium Cycling in the Inner Ear (Noise-Induced)
+Potassium Cycling in the Inner Ear (Age-Related)
+TLR2 Induced Synovial Fibroblast Activation in Rheumatoid Arthritis
+Penile Erection Impairment
+Acetylases Inhibition in Histone Deacetylation in Cancer
+PTGER2/3 -> Vascular Motility
+ER Associated Protein Degradation in Vesicular Transport
+Osteoclast Activation in Gout
+HIF1A in Pathologic Ocular Neovascularization
+Proteins Involved in Huntington Disease
+Proteins with Altered Expression in Cancer Immune Escape
+HPV E6 and E7 Induced Disruption of TNFR/NF-kB Signaling in Keratinocytes
+Overt Hypothyroidism, Primary
+NO and ADMA Signaling in Raynaud Disease
+Eosinophil Activation and Degranulation in Asthma
+Age-Related Cataract
+TERT Activation in Cancer
+Scavenger Receptors in Platelet Activation
+Genes with Mutations Associated with Glaucoma
+MTHFR Activity Regulation
+beta-Cell Recovery in Diabetes Mellitus
+Hyperammonemia Type I
+Ca2+ Signaling in Dilated Cardiomyopathy
+Frizzled Receptors -> ARRB1/ARRB2 Canonical Signaling
+TERT/WNT Activation in Cancer
+Endothelin Signaling in Arterial Hypertension
+ICAM1 -> AP-1/CREB/ELK/SRF Signaling
+Atopic Dermatitis
+APP Processing in Alzheimer Disease
+Protein Folding
+Postsynaptic Neuron Activation
+PTGDR -> Vasodilation
+Proteins Involved in B-Cell Chronic Lymphocytic Leukemia
+Lysophosphatidic Acid/LPARs Signaling
+TRPM4/6/7/8 Signaling in Arterial Hypertension (Hypothesis)
+Mutations in Krebs Cycle Enzymes in Cancer
+Monoblast -> Promonocyte Surface Expression Markers
+Telomeric Proteins/NFKB Positive Feedback Interplay in Cancer
+Apoptosis Block in Acute Myeloid Leukemia Cell
+Receptors and Adaptor Proteins Activated in Cancer
+SHBG and IGFBP1 Synthesis Decline in Polycystic Ovary Syndrome
+NFKB Canonical Signaling Activation in Cancer
+Glutamate Mediated Excitotoxicity in Glaucoma
+beta-Cell Dysfunction by Steroids in Diabetes Mellitus (Hypothesis)
+Adrenoceptors Physiological Effects
+MicroRNAs Role in Melanoma
+Norepinephrine Neuronal Release
+EphrinB -> Cytoskeleton Signaling
+BMPR2 Signaling
+TGFB2 Signaling Impairement in Osteoarthritis
+CD38 -> cADPR/Calcium Signaling
+IL10/STAT3 Signaling in M2 Macrophage and Retinal Angiogenesis
+Crystallin alpha B (CRYAB) Suppresses Multiple Sclerosis
+mTOR Signaling Hyperfunction
+Celiac Disease
+Apoptosis of Thyroid Cell in Hashimoto's Thyroiditis
+Natural Killer Cell in Diabetes Mellitus Type 1
+CCL2 Role in CGRP Expression and Release
+Genes with Mutations Associated with Endometrial Cancer
+DNA Replication in DNA Machinery
+Nicotine anti-Inflammatory Effect in Ulcerative Colitis
+Estrogen Effects in Mitochondria in Alzheimer Disease
+Proteins with Altered Expression in Vitiligo
+Lacto- and Neolacto-Type Glycosphingolipid Biosynthesis
+Neutrophil Recruitment in Sinovium in Gout
+Familial Partial Lipodystrophy Type 4 Progression (Hypothesis)
+Desmosome Assembly
+TLR7 and TLR9 in Plasmacytoid Dendritic Cell
+Oxidative Stress, All-Trans-Retinal and Lipofuscin Toxicity in AMD
+Th17-Cell Differentiation in Asthma
+PNPLA3 in non-Alcoholic Fatty Liver Disease
+Endothelial Cell Dysfunction in Early Diabetic Nephropathy
+Alveolar Macrophages Dysfunction in COPD
+Ca2+/Pi Reabsorption Decline in Kidney in Hypoparathyroidism
+Proteins Involved in Erectile Dysfunction
+CD19 -> NF-kB Signaling
+beta-Catenin/Androgen Receptor Signaling in Prostate Cancer
+Proteins Involved in Diabetes Mellitus Type 1
+AMPA Receptors -> Calcium Influx
+SNS Related Adrenal Cortex Response
+T-Cell Receptor -> NF-kB Signaling
+Genes with Susceptibility for Crohn's Disease and Ulcerative Colitis
+Ichthyosis Vulgaris
+Proteins Involved in Male Infertility
+IgE Induces Airway Smooth Muscle Cell Proliferation
+Deacetylases Activation in Histone Deacetylation in Cancer
+Lymphocyte Mediated Myocardial Injury in Myocarditis
+OPTN Effects on NF-kB Signaling in Glaucoma
+Toll-like Receptors Act through MYD88-TIRAP Signaling
+Proteins Involved in Photoaging
+RAGE/AGER and S100 Proteins in Cardiovascular Injury
+Vitamins Insufficiency Causes Homocysteine High Level Synthesis
+GUCY2C in Intestinal Ion and Fluid Homeostasis
+GALR1/2/3 -> Neurotransmitter Metabolism
+Dendritic Cells Function in Atherosclerosis
+HTR1 -> Vascular Motility
+Thyroid Dysfunction
+Eosinophil Activation
+Uric Acid Excretion Impairement in Kidney in Gout
+T-Cell Independent B-Cell Activation
+GUCY2C Signaling in Apetite Regulation
+Vascular Endothelial Cell Activation by NO
+Proteins Involved in Ependymoma
+Angiotensin-Aldosterone System Activation Scheme
+Vascular Smooth Muscle Cell Vasodilation in Brain
+Glutamate Overdose and Aura Effect in Migraine Type 2
+DNA Persistent Repair Inhibits mTOR Signaling
+Proteins with Altered Expression in Psoriatic Arthritis
+Do not Eat mexc2x9d Signal: Viable Cells Inhibits Phagocytosis
+Vitamine D Deficite and Dentin Formation
+Proteins Involved in Rett Syndrome
+Lipogenesis Regulation in Adipocyte
+Oxidized LDL/OLR1 Activates Cell Proliferation in Cancer
+Proteins Involved in Androgenetic Alopecia
+Apoptotic Keratinocytes Clearance Recession in Systemic Lupus Erythematosus
+Oxygen Shortage in Myocardial Ischemia
+T-lymphoid precursor cell -> CD8+ Naive T-cell Surface Expression Markers
+SCF/CCNF Complex
+SOCS3 and PTPN1 in Hypothalamic Neuron Insensitivity to Insulin and Leptin
+Mast-Cell Activation without Degranulation through CYSLTR1/CYSLTR2 Signaling
+Gluconeogenesis Impairment in non-Alcoholic Fatty Liver Disease
+CagA Phosphorylation Independent Signaling
+IL15R -> STAT Signaling
+Frizzled Receptors -> ARRB1/ARRB2 non-Canonical Signaling
+Oxytocin Signaling in Brain Nerve Cell (Hypothesis)
+Myocyte Dysfunction in Hypoparathyroidism
+PECAM -> SP1 Signaling
+FGFR1 -> STAT Signaling
+Ethanol Induced Hepatotoxicity
+FOXO1 Signaling
+Renal Proximal Tubule Acid-Base Homeostasis
+B-Cell Mediated IgE Production in Asthma
+Proteins with Altered Expression in Gout
+Proteins Involved in Peutz-Jeghers Syndrome
+KIT -> MITF Signaling
+Genes with Mutations Associated with Cystic Kidney Disease
+Alveolar Macrophage Negative Regulation Declined in COPD
+FSH Action in Polycystic Ovary Syndrome
+Proteins Involved in Pulmonary Hypertension
+Endocannabinoids Role in Sleep Regulation
+Genes with Mutations Associated with Pregnancy Related Coagulation Disorders
+Ca2+ Reabsorption Dysregulation in Urolithiasis
+TNF-alpha/TNFRSF1A Signaling
+SOCS in Negative Feedback Regulation in Myocarditis
+Dystrophin Glycoprotein Complex Signaling in Muscular Dystrophies
+GNRH Neurons Development and Migration Impairment in Hypogonadotropic Hypogonadism
+Bone Mineralization Impairement in Osteoporosis
+Hutchinson-Gilford Progeria Syndrome
+NPY1R -> CRH/POMC Production
+IL6R -> STAT Signaling
+ADK Expression Downregulation after Acute Seizures
+Kynurenine Metabolites Supress T-Cells in Cancer Immune Escape
+Dectin-1 (CLEC7A) Signaling
+Insulin Signaling
+CHRAC in Chromatin Remodeling
+Proteins Involved in Presbycusis
+EDN, NRG, NRTN, and GDNF/RET Signaling in Hirschsprung Disease
+ADRB1/3 -> Vasodilation
+beta-Casomorphins/Opioid Receptors Affect Brain Function (Hypothesis)
+Proteins Involved in Cholesteatoma
+Muscarinic Receptor-Mediated Airway Smooth Muscle Contraction
+NTRK -> AP-1/CREB/ELK/SRF/MYC/SMAD3/TP53 Signaling
+Cortisol in Resolving Inflammation
+Immune System Role in Otitis Media
+Proteins Involved in Chronic Bronchitis
+CD38/CD3 -> JUN/FOS/NF-kB Signaling in T-cell Proliferation
+Platelet Activation via Adhesion Molecules
+EDNRA/B -> Vascular Motility
+Oocyte-Specific Gene Mutations in Primary Ovarian Insufficiency
+Peroxisome Protein Import and Peroxisome Division
+Vascular Smooth Muscle Cell/Pericyte Migration and Proliferation
+Natural Killer T-Cell Roles in Diabetes Mellitus Type 1
+Th17-Cell Numbers Reduction in HIV
+Androgen Receptor Coregulator ARA55 (TGFB1I1) in Prostate Cancer
+GABRB3 Mutation and Adenosine Deaminase Polymorphism
+Glioblastoma, Mesenchymal Subtype
+Proteins Involved in Pyelonephritis
+Folate Cycle and Homocysteine Overproduction
+EGFR/ERBB2 -> TP53 Signaling
+Dopamine Metabolism in Parkinson's Disease
+Wolfram Syndrome Progression (Hypothesis)
+Hematopoietic Cell Lineage: B-cell
+Hedgehog Signaling in Mantle Cell Lymphoma
+Steroidogenesis Impairement in Polycystic Ovary Syndrome
+Neutrophil Degranulation via FPR1 Signaling
+GUCY2C Signaling in Colorectal Cancer
+Proteins Involved in Neuroblastoma
+TLR3 -> NF-kB Signaling
+Androgen Induced Sebocyte Hyperfunction
+DNA Damage Checkpoint Impairment in Cancer
+Cochlear Hair Cell Stereocilia Proteins Mutations (Age-Related)
+Protein Degradation Dysregulation in Dementia (Hypothesis)
+Hedgehog Family -> ARRB1/ARRB2 Canonical Signaling
+Proteins Involved in Gout
+ERBB/VEGFR/Akt Signaling in Breast Cancer
+Proteins Involved in Hashimoto's Thyroiditis
+HGFR -> FOXO3A Signaling
+Endosomal Recycling
+Protein Nuclear Import and Export
+CDC73 Mutations Cause Hyperparathyroidism
+TAM Receptor Signaling Activation in Cancer
+DREAM Complex and FOXM1/MYBL2 Promote Cell Cycle Progression in Cancer
+Leydig Cells Dysfunction in Testicular Male Infertility
+Proteins Mutated in Cochlear Hair Cell Synapse
+HTR1 -> IL6 Production
+TGFBR3 -> ARRB2 Signaling
+Osteoclast Activation in Rheumatoid Arthritis
+Ca2+ Cytosolic Overload
+Proteins with Altered Expression in Glomerulonephritis
+Sialophorin -> CTNNB/MYC/TP53 Signaling
+OPRL1 -> Ion Channels
+CSF2 -> STAT Signaling
+VEGFA in Neovascular Glaucoma
+ADRA2A -> Hyperpolarization
+Medulloblastoma
+Endometrioid Endometrial Cancer
+Proteins Involved in Hodgkin Lymphoma
+Focal Junction Assembly
+Astrocyte Dysfunction and GABA Signaling Deficiency
+Ca2+ Flux Regulation
+Th2-Cell Function in Ulcerative Colitis
+NTSR1 Expression Targets
+CCR5 Signaling in Macrophages
+Genes with Mutations Associated with Breast Cancer
+IGF1R/AKT Signaling in Breast Cancer
+Eicosanoids in Inflammation
+Double Strand DNA non-Homologous Repair
+CHRM1/2/3 -> Vascular Motility
+Antigen-Presenting Cell Role in Asthma
+CFL1 in Cancer Cell Motility
+Exocytosis: Vesicle Trafficking
+MAVS in Antiviral Innate Immune Response in Myocarditis
+ADRB1 -> Ion Channels
+Luteinizing Hormone in Oocyte Meiotic Resumption
+Proteins Involved in Chronic Obstructive Pulmonary Disease
+Ependymoma
+Hypoxia-Induced Cell Death Evasion in Cancer
+Th17-Cell Activation in Crohn's Disease
+IL1B Induced Arthralgia
+Acinar Cells in the Saliva Formation
+Aryl Hydrocarbon Receptor/Tryptophan Metabolites Signaling
+Hodgkin and Reed-Sternberg Cells Reprogramming
+Mast-Cell Activation without Degranulation through KIT/F2R Signaling
+IDO1 in Cancer Immune Escape
+CC Chemokine Receptor Signaling
+Aryl Hydrocarbon Receptor/Arachidonic Acid Metabolites Signaling
+Inherited Channelopathies
+ADORA3 -> Mast-Cell Degranulation
+Mast-Cell Activation without Degranulation through TNFSF8 Signaling
+EctodysplasinR -> AP-1 Signaling
+Cardiomyocyte Hypertrophy
+Mantle Cell Lymphoma
+AHR Signaling in Tr1 Cells Function
+Osteoblast Dysfunction in Hypoparathyroidism
+FOXA2 Signaling in Prostate Cancer
+Muscular Dystrophy, Facioscapulohumeral
+Cochlear Hair Cell Stereocilia Proteins Mutations (Congenital Deafness)
+Platelet and Coagulation Cascade Activation by Antiphospholipid Antibodies
+Dendritic Cell Activation in Systemic Lupus Erythematosis
+Majeed Syndrome
+Melatonin Effects on Circadian Cycle
+PTGER2/3 -> Inflammation-Related Expression Targets
+Proteins Involved in Myocardial Ischemia
+Dedifferentiation and Metastatic Progression in Melanoma
+WNT Canonical Signaling Activation in Cancer
+Mitochondrial Fusion and Fission
+Vascular Reactivity in Raynaud Disease
+Osteoblast Function Decline in Gout
+Glioblastoma, Proneural Subtype
+Intraflagellar Transport: Anterograde Transport
+VEGF Signaling
+Glutamine in Cancer Metabolism
+CD157 -> cADPR/Calcium Signaling
+Acute Phase in Atopic Dermatitis
+CDH2 Activation Promotes Cancer Cell Migration and Survival
+High-Grade Serous Ovarian Carcinoma
+Sperm Motility Impairement in Testicular Male Infertility
+Single-Strand Base Excision
+Eosinophil Survival in Asthma
+CD2 -> NFATC1 Signaling
+Sarcomere in Cardiomyocyte in Dilated Cardiomyopathy
+Platelet Activation via GPCR Signaling
+TNFRSF5 -> STAT Signaling
+Proteins Involved in Prolactinoma
+Thrombopoietin Receptors Signaling in Platelet Maturation
+T-Cell Receptor -> ATF/CREB Signaling
+Keratinocyte Proliferation in Acne Vulgaris
+Progesterone Resistance in Endometriosis
+AGE Related Insulin Resistance in Skeletal Muscles
+Metaphase/Anaphase Phase Transition
+Macrophage Dysfunction
+Hippo/YAP1 Signaling Deregulation in Cancer
+Mast-Cell Activation without Degranulation through CXCR4 Signaling
+Proteins with Altered Expression in Chronic Obstructive Pulmonary Disease
+Proteins Involved in Graves Disease
+Tight Junction Assembly (JAMs)
+IL23R -> STAT3/NF-kB Signaling
+TLR4/5/7/9 -> NF-kB Signaling
+Proteins Involved in Phenylketonuria
+Apoptosis of Melanocyte in Vitiligo
+Metabolism of Estrogens and Androgens
+Mitochondrial Damage Induced by Hypoxia
+Apoptosis Block in Infected Cells
+Hypoxia Inhibits mTOR Signaling
+IL7R -> FOXO/NF-kB Signaling
+Natural Killer Cell Inhibitory Receptor Signaling
+Eat me Signal: Apoptotic Cell Induces Phagocytosis
+Circadian Clock and Sleep Regulation by Melatonin
+Mast-Cell Activation without Degranulation through IL1R1 and TLR Signaling
+Exocytosis: Vesicle Priming
+PI3K/RAC1 Signaling
+Neutrophil Activation via FCGR3B
+Methylases in Histone Methylation Cancer
+Proteins Involved in Systemic Scleroderma
+INSR -> ARRB2/AKT/SRC Signaling
+Familial Cold Autoinflammatory Syndrome 2
+Histone Ubiquitylation
+CD4+ T-Cell Function Decline in HIV
+Epigenetic Alterations Triggers Genomic Instability
+Neuroblastoma
+Natural Killer Cell Activation through ITAM-Containing Receptors
+Synaptic Potentiation by PKMZ in LTP Maintenance - Basal State
+Androgen Receptor non-Genomic Signaling
+Serotonin Signaling in the Ciliary Body
+Chemokines Signaling in Atherosclerosis
+Androgens Promote Scalp Dermal Papilla Regression
+Argininosuccinic Aciduria in Urea Cycle Disorders
+Proteins Involved in Hyperparathyroidism
+Li-Fraumeni Syndrome
+Glutamate Release
+K-cell: GIP Production
+CHRNA7 -> CREB Signaling
+Ghrelin and Nesfatin-1 Regulate Stomach Functional State and Satiety
+Myeloid Cell Differentiation Block in Leukemia
+Find me Signal: Apoptotic Cell Attracts Phagocyte
+Leptin Role in Endometriosis
+Proteins with Altered Expression in Osteoporosis
+HPV E6 and E7 Induced Block of Apoptosis in Keratinocytes
+HIF1A in Vasculogenic Mimicry of Cancer
+Netrin-1 Signaling in Age-Related Macular Degeneration
+Acute Cytotoxic CD8+T-Cell Response against Melanocytes
+Proteins Involved in Hypoxia-Induced Pulmonary Hypertension
+ESR1 Signaling in Breast Cancer
+Insulin Influence on Protein Synthesis
+EphrinB -> MAPK/JUN/FOS Signaling
+G1/S Damage Checkpoint
+Immune Sustem Activation in Hashimoto's Thyroiditis
+ER Stress (Unfolded Protein Response)
+Conventional Dendritic Cell Role in Diabetes Mellitus Type 1
+Chronic Myeloid Leukemia
+Prostaglandin E2 Receptor Signaling in Neurons
+Insulin Influence on Lipogenesis
+MIF Role in Cholesteatoma
+Cell Cycle Overiew
+Proteins Involved in Lesch-Nyhan Syndrome
+Bone Remodeling in Hyperthyroidism
+Ions Reabsorption Dysregulation in Nephrolithiasis
+INO80 in Chromatin Remodeling
+Androgens in Adipocyte Activation
+Proteins Involved in Hutchinson-Gilford Progeria Sindrome
+Airway Smooth Muscle Cell Contraction
+IL36 Receptor Antagonist (IL1F5) Deficiency (DITRA)
+IFNG -> ARRB1/STAT1 Signaling
+FGFR -> RUNX2 Signaling
+Synovial Fibroblast Activation by Citokines in Rheumatoid Arthritis
+Metabolic Reprogramming in Cancer: Overview
+BMP2 and Non-Canonical WNT Signaling in Pulmonary Artery Endothelial Cells
+Parathyroid Glands Development (Mouse Model)
+NOTCH -> SMAD3 Signaling
+Proteins with Altered Expression in Cancer-Associated Histone Methylation
+Treg Cells Promote Immunosuppression in Cancer Immune Escape
+GPCRs Desentization
+Androgens Synthesis in Sebocytes
+Endometrial Cancer
+FcIgER -> ELK-SRF Signaling
+AGER -> CREB/SP1 Signaling
+CD47 Repression by miRNAs
+Enamel Formation Disruption
+Timothy Syndrome
+beta-Cell Function Inhibition by Rapamycin (Rodent Model)
+ActivinR/BMPR -> SMAD1/5/9 Signaling
+Androgens in Sebocyte Maturation
+Acetaminophen Induced Hepatotoxicity
+Aldosterone Synthesis Chronic Regulation
+SCF/FBXW7 Complex
+WNT Signaling in Melanoma
+IL22 Induces Keratinocyte Proliferation in Psoriasis
+Lipolysis Regulation in Adipocyte
+Blau Syndrome
+Testicular Dysgenesis Causes Male Infertility
+Vascularization in Hepatocellular Carcinoma
+TNFRSF6 -> FOXO3A Signaling
+Proteins Involved in Congenital Hypothyroidism
+Amyloid beta Traffic and Degradation in Extracellular Matrix in Alzheimer's Disease
+Circadian Clock Genes Mutations Cause Insomnia
+Donohue Syndrome Progression (Hypothesis)
+Golgi to Endosome Transport
+Leukotriene Effect on Airway Smooth Muscle Response
+Prostaglandin E2 and Histamine in Gastric Acid Secretion
+Genes with Mutations Associated with Asthma
+IL12 Antitumor Effect is Blocked in Cancer
+Ca2+ Toxicity in Lens Cells

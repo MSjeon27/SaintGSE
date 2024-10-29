@@ -1,0 +1,30 @@
+package:
+  name: saintgse
+  version: 0.5.2
+
+source:
+  path: .
+
+build:
+  noarch: python
+  script: bash build.sh
+
+requirements:
+  host:
+    - python >=3.8
+    - pip
+  run:
+    - pytorch
+    - pandas
+    - numpy
+    - scikit-learn
+    - gseapy
+
+about:
+  home: https://github.com/MSjeon27/SaintGSE
+  license: Apache-2.0
+  summary: Package for gene set enrichment analysis.
+
+extra:
+  recipe-maintainers:
+    - msjeon27
