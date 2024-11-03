@@ -71,8 +71,8 @@ These files must be located in the following path.
 In addition, after creating the corresponding path, you can decompress it with the following command in the path.
 
 ```
-cd /path/to/SaintGSE/datasets/
-find . -name "*.tar.gz" -exec tar -xzf {} -C $(dirname {}) \;
+$ cd /path/to/SaintGSE/datasets/
+$ find . -name "*.tar.gz" -exec tar -xzf {} -C $(dirname {}) \;
 ```
 
 Once the file structure is formed as follows, the preparation for using SaintGSE is complete.
@@ -120,12 +120,12 @@ Currently, SaintGSE has the function of converting mouse genes into human genes.
 
 * human DEGs
 ```
-preprocessing.py --query_fc /path/to/your/DEGs.tsv --out Preprocessed_fc.tsv
+$ preprocessing.py --query_fc /path/to/your/DEGs.tsv --out Preprocessed_fc.tsv
 ```
 
 * mouse DEGs
 ```
-preprocessing.py --query_fc /path/to/your/DEGs.tsv --org mouse --out Preprocessed_fc.tsv
+$ preprocessing.py --query_fc /path/to/your/DEGs.tsv --org mouse --out Preprocessed_fc.tsv
 ```
 
 
