@@ -197,5 +197,5 @@ dependencies:
   - gseapy==1.1.3
   - pip:
     - gseapy==1.1.3
-    - torch==2.4.0+cu124
+    - torch==2.4.0
     - torchvision==0.9.1
