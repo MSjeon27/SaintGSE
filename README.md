@@ -20,15 +20,8 @@ Before installation, we recommend to build a conda environment from the attached
 Our code has been tested with python=3.8 on linux.
 
 ```
-conda env create -f saintgse_env.yml
-conda activate saintgse_env
-```
-
-Clone the repository and install the dependencies:
-
-```
-$ git clone https://github.com/MSjeon27/saintgse.git
-$ cd saintgse
+$ conda env create -f saintgse_env.yml
+$ conda activate saintgse_env
 ```
 
 Also, you could get additional dataset for prediction at github release (https://github.com/MSjeon27/SaintGSE/releases/tag/SaintGSE).
