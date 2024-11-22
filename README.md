@@ -2,7 +2,7 @@
 
 ![Overview](pipeline.png)
 
-SaintGSE is an artificial intelligence model designed to predict human gene-pathway relationships using large-scale differentially expressed gene (DEG) datasets. By leveraging an autoencoder and the SAINT transformer model, SaintGSE overcomes challenges in gene expression analysis, such as data scarcity, model compatibility, and interpretability. This project uses and modifies code from the SAINT project (https://github.com/somepago/saint), licensed under the Apache License 2.0. 
+SaintGSE is an artificial intelligence model designed to predict human gene-pathway relationships using large-scale differentially expressed gene (DEG) datasets. By leveraging an autoencoder and the SAINT transformer model, SaintGSE overcomes challenges in gene expression analysis, such as data scarcity, model compatibility, and interpretability. This project fine-tuned codes from the SAINT project (https://github.com/somepago/saint), licensed under the Apache License 2.0. 
 
 
 ## Key Features
