@@ -159,3 +159,14 @@ The result of interpretation produces the following files for each sample.
 ```
 
 This represents the relative SHAP contribution for each gene in the DEG data. In the subsequent analysis, it is recommended to focus on the genes with the relative SHAP contributions in the top 35% to 50% as we suggested in the paper, depending on the number of DEGs.
+
+
+## How to Cite
+
+If you use this model or repository in your research, please cite it as follows:
+
+```
+Jeon, MS & Nam, JH et al., "SaintGSE: Transformer-based efficient and explainable gene set enrichment analysis," 2024. GitHub repository. Available at: https://github.com/MSjeon27/SaintGSE
+```
+
+For more information or any questions regarding citation, feel free to contact us (msjeon27@cau.ac.kr).
