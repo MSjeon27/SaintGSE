@@ -14,8 +14,8 @@ SaintGSE is an artificial intelligence model designed to predict human gene–pa
 Before installation, we recommend building a conda environment from the attached YAML file and activating it. Our code has been tested with python=3.8 on Linux.
 
 ```bash
-conda env create -f saintgse_env.yml
-conda activate saintgse_env
+$ conda env create -f saintgse_env.yml
+$ conda activate saintgse_env
 ```
 
 Clone the repository and install the dependencies:
@@ -32,13 +32,12 @@ Currently, SaintGSE has the function of converting mouse genes into human genes.
 
 * human DEGs
 ```bash
-preprocessing.py --query_fc /path/to/your/DEGs.tsv --out Preprocessed_fc.
-tsv
+$ preprocessing.py --query_fc /path/to/your/DEGs.tsv --out Preprocessed_fc.tsv
 ```
 
 * mouse DEGs
 ```bash
-preprocessing.py --query_fc /path/to/your/DEGs.tsv --org mouse --out Preprocessed_fc.tsv
+$ preprocessing.py --query_fc /path/to/your/DEGs.tsv --org mouse --out Preprocessed_fc.tsv
 ```
 
 ### Step 1. training (optional) Train a pathway-specific model.
@@ -46,7 +45,7 @@ Available pathway names can be found in: <Path to SaintGSE>/datasets/pathway_lis
 
 Training:
 ```bash
-python SaintGSE.py --pathway "Proteins Involved in Osteoarthritis" --pretrain
+$ python SaintGSE.py --pathway "Proteins Involved in Osteoarthritis" --pretrain
 ```
 
 ### Step 2. Prediction through SaintGSE (Interpretation)
@@ -54,7 +53,7 @@ python SaintGSE.py --pathway "Proteins Involved in Osteoarthritis" --pretrain
 Run prediction for a target pathway using a pre-trained or previously trained checkpoint:
 
 ```bash
-python SaintGSE.py --pathway "Proteins Involved in Osteoarthritis" --predict Preprocessed_fc.tsv
+$ python SaintGSE.py --pathway "Proteins Involved in Osteoarthritis" --predict Preprocessed_fc.tsv
 ```
 
 If IG is enabled, SaintGSE also produces gene-level attributions per sample. Typical outputs include:
@@ -66,3 +65,13 @@ Recommended driver gene definition (cumulative |IG|): In our OA analyses, we obs
 Note You can control IG computation via optional arguments:
 - ig_steps (e.g., 10/20/50/100/256) (default: 64)
 - ig_baseline (zero or mean) (default: zero)
+
+
+### How to Cite
+If you use this model or repository in your research, please cite it as follows:
+
+```
+Jeon, MS & Nam, JH et al., "SaintGSE: Transformer-based efficient and explainable gene set enrichment analysis," 2024. GitHub repository. Available at: https://github.com/MSjeon27/SaintGSE
+```
+
+For more information or any questions regarding citation, feel free to contact us (msjeon27@cau.ac.kr).
