@@ -71,7 +71,9 @@ Note You can control IG computation via optional arguments:
 If you use this model or repository in your research, please cite it as follows:
 
 ```
-Jeon, MS & Nam, JH et al., "SaintGSE: Transformer-based efficient and explainable gene set enrichment analysis," 2024. GitHub repository. Available at: https://github.com/MSjeon27/SaintGSE
+Jeon MS, Nam J, Lee M, Cho C, Yang S, Eyun SI.  
+**SaintGSE: Transformer-based efficient and explainable gene set enrichment analysis**.  
+*Osteoarthritis and Cartilage*, 2026.
 ```
 
 For more information or any questions regarding citation, feel free to contact us (msjeon27@cau.ac.kr).
