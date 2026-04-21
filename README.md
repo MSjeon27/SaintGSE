@@ -70,7 +70,7 @@ Note You can control IG computation via optional arguments:
 ### How to Cite
 If you use this model or repository in your research, please cite it as follows:
 
-Jeon MS, Nam J, Lee M, Cho C, Yang S, Eyun SI. **SaintGSE: Transformer-based efficient and explainable gene set enrichment analysis**. *Osteoarthritis and Cartilage*, 2026.
+Jeon MS, Nam J, Lee M, Cho C, Yang S, Eyun SI. **SaintGSE: Transformer-based efficient and explainable gene set enrichment analysis**. *Osteoarthritis and Cartilage*, 2026;34:YJOCA5804.
 
 > Min-Seung Jeon and Jiho Nam contributed equally to this work.
 
