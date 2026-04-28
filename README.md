@@ -40,7 +40,7 @@ $ preprocessing.py --query_fc /path/to/your/DEGs.tsv --out Preprocessed_fc.tsv
 $ preprocessing.py --query_fc /path/to/your/DEGs.tsv --org mouse --out Preprocessed_fc.tsv
 ```
 
-### Step 1. training (optional) Train a pathway-specific model.
+### Step 1. Training (once) Train a pathway-specific model.
 Available pathway names can be found in: <Path to SaintGSE>/datasets/pathway_list_in_DEG.txt
 
 Training:
